@@ -1,13 +1,13 @@
 [build]
   base = "/"
-  command = "npm install && npm install -D vite && npm run build"
-  publish = "dist"
+  command = "npm install && cd client && npm install && npm run build"
+  publish = "client/dist"
 
 [dev]
-  command = "npm run dev"
+  command = "cd client && npm run dev"
   port = 3000
   targetPort = 3000
-  publish = "dist"
+  publish = "client/dist"
 
 [[redirects]]
   from = "/*"
@@ -17,6 +17,12 @@
 
 [build.environment]
   NODE_VERSION = "20.19.0"
+  NPM_FLAGS = "--legacy-peer-deps"
+  VITE_API_URL = "https://pdfmaster.onrender.com"
+  NODE_ENV = "production"
+  
+[functions]
+  directory = "server/functions"
   NPM_FLAGS = "--legacy-peer-deps"
   VITE_API_URL = "https://pdfmaster.onrender.com"
   NODE_ENV = "production"

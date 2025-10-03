@@ -1,6 +1,7 @@
+
 [build]
   base = "/"
-  command = "npm install && npm run build:frontend"
+  command = "yarn install && yarn build:frontend"
   publish = "dist"
 
 [dev]

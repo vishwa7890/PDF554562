@@ -4,7 +4,7 @@ import Loader from '@/components/Loader';
 import DownloadCard from '@/components/DownloadCard';
 import { Button } from '@/components/ui/button';
 import { useToast } from '@/hooks/use-toast';
-import api from '@/lib/api';
+import api from '@/utils/api';
 
 export default function CompressPDF() {
   const [files, setFiles] = useState<File[]>([]);

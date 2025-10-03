@@ -21,7 +21,7 @@ import { Textarea } from '@/components/ui/textarea';
 import { Progress } from '@/components/ui/progress';
 import { Separator } from '@/components/ui/separator';
 import FileUploader from '@/components/FileUploader';
-import api from '@/lib/api';
+import api from '@/utils/api';
 
 const languages = [
   { code: 'eng', name: 'English', flag: '🇺🇸' },

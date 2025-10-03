@@ -1,14 +1,13 @@
 [build]
-  command = "cd client && npm install && npm run build"
-  publish = "client/dist"
-  base = "/"
-  working_directory = "client"
+  base = "client"
+  command = "npm install && npm run build"
+  publish = "dist"
 
 [dev]
-  command = "cd client && npm run dev"
+  command = "npm run dev"
   port = 3000
   targetPort = 3000
-  publish = "client/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"

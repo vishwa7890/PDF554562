@@ -27,26 +27,72 @@ export default function ConvertPDF() {
 
     setIsProcessing(true);
 
-    const formData = new FormData();
-    formData.append('file', files[0]);
-    formData.append('format', format);
-
     try {
-      // TODO: Connect to FastAPI backend
-      const response = await api.post('/convert', formData, {
+      // Step 1: Upload file
+      const uploadFormData = new FormData();
+      uploadFormData.append('file', files[0]);
+      
+      const uploadResponse = await api.post('/pdf/upload', uploadFormData, {
         headers: { 'Content-Type': 'multipart/form-data' },
+      });
+      
+      const fileId = uploadResponse.data.id;
+
+      // Step 2: Convert PDF to images
+      const response = await api({
+        method: 'post',
+        url: '/pdf/convert',
+        data: {
+          file_id: fileId,
+          format: format,
+          dpi: 200
+        },
         responseType: 'blob',
       });
-
-      await new Promise((resolve) => setTimeout(resolve, 2000));
       
-      setDownloadReady(true);
+      // Create a blob URL for the downloaded file
+      const blob = new Blob([response.data], { type: 'application/zip' });
+      const url = window.URL.createObjectURL(blob);
+      
+      // Create a temporary link and trigger download
+      const link = document.createElement('a');
+      const contentDisposition = response.headers['content-disposition'];
+      let filename = `converted_${files[0].name.replace(/\.pdf$/i, '')}.zip`;
+      
+      // Extract filename from content-disposition header if available
+      if (contentDisposition) {
+        const filenameMatch = contentDisposition.match(/filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/);
+        if (filenameMatch && filenameMatch[1]) {
+          filename = filenameMatch[1].replace(/['"]/g, '').trim();
+        }
+      }
+      
+      link.href = url;
+      link.setAttribute('download', filename);
+      document.body.appendChild(link);
+      link.click();
+      
+      // Clean up
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+      
+      // Show success message
       toast({
         title: 'Success',
-        description: 'PDF converted successfully!',
+        description: 'PDF converted and downloaded successfully!',
       });
+      
+      // Reset the form
+      handleReset();
     } catch (error) {
-      // Demo fallback
+      console.error('Error converting PDF:', error);
+      toast({
+        title: 'Error',
+        description: 'Failed to convert PDF. Please try again.',
+        variant: 'destructive',
+      });
+      
+      // For demo purposes, simulate a successful conversion
       console.log('Convert triggered - backend not connected yet');
       await new Promise((resolve) => setTimeout(resolve, 2000));
       setDownloadReady(true);
@@ -56,11 +102,12 @@ export default function ConvertPDF() {
   };
 
   const handleDownload = () => {
-    // TODO: Implement actual download
-    console.log('Download triggered');
+    // This will be called if the user clicks the download button in the DownloadCard
+    // But we're already handling the download in handleConvert, so we can leave this empty
+    // or add a message to the user
     toast({
-      title: 'Download started',
-      description: 'Your images are downloading...',
+      title: 'Info',
+      description: 'The download should have started automatically. If not, please try converting the PDF again.',
     });
   };
 
@@ -94,6 +141,7 @@ export default function ConvertPDF() {
               files={files}
               onFilesChange={setFiles}
               multiple={false}
+              accept=".pdf"
             />
             <div className="mt-6 space-y-3">
               <Label data-testid="label-image-format">Image format</Label>

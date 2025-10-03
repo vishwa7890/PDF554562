@@ -1,0 +1,67 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15
+    container_name: pdfmaster_postgres
+    environment:
+      POSTGRES_DB: pdfmaster
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - pdfmaster_network
+
+  # Redis for caching and job queue
+  redis:
+    image: redis:7-alpine
+    container_name: pdfmaster_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - pdfmaster_network
+
+  # FastAPI Backend
+  backend:
+    build: ./backend
+    container_name: pdfmaster_backend
+    environment:
+      DATABASE_URL: postgresql://postgres:password@postgres:5432/pdfmaster
+      REDIS_URL: redis://redis:6379
+      SECRET_KEY: your-super-secret-key-change-in-production
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/uploads:/app/uploads
+      - ./backend/processed:/app/processed
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - pdfmaster_network
+
+  # Frontend (React/Vite)
+  frontend:
+    build: 
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: pdfmaster_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      VITE_API_URL: http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - pdfmaster_network
+
+volumes:
+  postgres_data:
+
+networks:
+  pdfmaster_network:
+    driver: bridge

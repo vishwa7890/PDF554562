@@ -36,40 +36,93 @@ export default function SplitPDF() {
 
     setIsProcessing(true);
 
-    const formData = new FormData();
-    formData.append('file', files[0]);
-    formData.append('ranges', pageRanges);
-
     try {
-      // TODO: Connect to FastAPI backend
-      const response = await api.post('/split', formData, {
+      // Step 1: Upload file
+      const uploadFormData = new FormData();
+      uploadFormData.append('file', files[0]);
+      
+      const uploadResponse = await api.post('/pdf/upload', uploadFormData, {
         headers: { 'Content-Type': 'multipart/form-data' },
+      });
+      
+      const fileId = uploadResponse.data.id;
+
+      // Step 2: Split PDF
+      // Parse page ranges (e.g., "1-3,5,7-9" -> [1,2,3,5,7,8,9])
+      const pages = pageRanges.split(',').flatMap(range => {
+        const [start, end] = range.trim().split('-').map(n => parseInt(n));
+        if (end) {
+          return Array.from({ length: end - start + 1 }, (_, i) => start + i);
+        }
+        return [start];
+      });
+
+      // Make the request with responseType: 'blob' to handle binary response
+      const response = await api({
+        method: 'post',
+        url: '/pdf/split',
+        data: { file_id: fileId, pages },
         responseType: 'blob',
       });
-
-      await new Promise((resolve) => setTimeout(resolve, 2000));
       
-      setDownloadReady(true);
+      // Create a blob URL for the downloaded file
+      const blob = new Blob([response.data], { type: 'application/zip' });
+      const url = window.URL.createObjectURL(blob);
+      
+      // Create a temporary link and trigger download
+      const link = document.createElement('a');
+      const contentDisposition = response.headers['content-disposition'];
+      let filename = 'split_pages.zip';
+      
+      // Extract filename from content-disposition header if available
+      if (contentDisposition) {
+        const filenameMatch = contentDisposition.match(/filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/);
+        if (filenameMatch && filenameMatch[1]) {
+          // Remove surrounding quotes if present and trim any whitespace
+          filename = filenameMatch[1].replace(/['"]/g, '').trim();
+          // Ensure the filename has a .zip extension
+          if (!filename.toLowerCase().endsWith('.zip')) {
+            filename = `${filename}.zip`;
+          }
+        }
+      }
+      
+      link.href = url;
+      link.setAttribute('download', filename);
+      document.body.appendChild(link);
+      link.click();
+      
+      // Clean up
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+      
+      // Show success message
       toast({
         title: 'Success',
-        description: 'PDF split successfully!',
+        description: 'PDF split and downloaded successfully!',
       });
+      
+      // Reset the form
+      handleReset();
     } catch (error) {
-      // Demo fallback
-      console.log('Split triggered - backend not connected yet');
-      await new Promise((resolve) => setTimeout(resolve, 2000));
-      setDownloadReady(true);
+      console.error('Error splitting PDF:', error);
+      toast({
+        title: 'Error',
+        description: 'Failed to split PDF. Please try again.',
+        variant: 'destructive',
+      });
     } finally {
       setIsProcessing(false);
     }
   };
 
   const handleDownload = () => {
-    // TODO: Implement actual download
-    console.log('Download triggered');
+    // This will be called if the user clicks the download button in the DownloadCard
+    // But we're already handling the download in handleSplit, so we can leave this empty
+    // or add a message to the user
     toast({
-      title: 'Download started',
-      description: 'Your split PDFs are downloading...',
+      title: 'Info',
+      description: 'The download should have started automatically. If not, please try splitting the PDF again.',
     });
   };
 

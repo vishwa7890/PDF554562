@@ -12,6 +12,7 @@ export default function CompressPDF() {
   const [downloadReady, setDownloadReady] = useState(false);
   const [originalSize, setOriginalSize] = useState(0);
   const [compressedSize, setCompressedSize] = useState(0);
+  const [quality, setQuality] = useState(50); // Default quality level (0-100)
   const { toast } = useToast();
 
   const formatFileSize = (bytes: number) => {
@@ -35,27 +36,77 @@ export default function CompressPDF() {
     setIsProcessing(true);
     setOriginalSize(files[0].size);
 
-    const formData = new FormData();
-    formData.append('file', files[0]);
-
     try {
-      // TODO: Connect to FastAPI backend
-      const response = await api.post('/compress', formData, {
+      // Step 1: Upload file
+      const uploadFormData = new FormData();
+      uploadFormData.append('file', files[0]);
+      
+      const uploadResponse = await api.post('/pdf/upload', uploadFormData, {
         headers: { 'Content-Type': 'multipart/form-data' },
+      });
+      
+      const fileId = uploadResponse.data.id;
+
+      // Step 2: Compress PDF
+      const response = await api({
+        method: 'post',
+        url: '/pdf/compress',
+        data: { file_id: fileId, quality },
         responseType: 'blob',
       });
-
-      await new Promise((resolve) => setTimeout(resolve, 2000));
       
-      // Demo: simulate 40% compression
-      setCompressedSize(Math.floor(files[0].size * 0.6));
-      setDownloadReady(true);
+      // Create a blob URL for the downloaded file
+      const blob = new Blob([response.data], { type: 'application/pdf' });
+      const url = window.URL.createObjectURL(blob);
+      
+      // Create a temporary link and trigger download
+      const link = document.createElement('a');
+      const contentDisposition = response.headers['content-disposition'];
+      let filename = 'compressed.pdf';
+      
+      // Extract filename from content-disposition header if available
+      if (contentDisposition) {
+        const filenameMatch = contentDisposition.match(/filename[^;=\n]*=((['"]).*?\2|[^;\n]*)/);
+        if (filenameMatch && filenameMatch[1]) {
+          // Remove surrounding quotes if present and trim any whitespace
+          filename = filenameMatch[1].replace(/['"]/g, '').trim();
+          // Ensure the filename has a .pdf extension
+          if (!filename.toLowerCase().endsWith('.pdf')) {
+            filename = `${filename}.pdf`;
+          }
+        }
+      }
+      
+      link.href = url;
+      link.setAttribute('download', filename);
+      document.body.appendChild(link);
+      link.click();
+      
+      // Clean up
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+      
+      // Update the compressed size for display
+      const compressedSize = response.data.size;
+      setCompressedSize(compressedSize);
+      
+      // Show success message
       toast({
         title: 'Success',
-        description: 'PDF compressed successfully!',
+        description: 'PDF compressed and downloaded successfully!',
       });
+      
+      // Reset the form
+      handleReset();
     } catch (error) {
-      // Demo fallback
+      console.error('Error compressing PDF:', error);
+      toast({
+        title: 'Error',
+        description: 'Failed to compress PDF. Please try again.',
+        variant: 'destructive',
+      });
+      
+      // For demo purposes, simulate a successful compression
       console.log('Compress triggered - backend not connected yet');
       await new Promise((resolve) => setTimeout(resolve, 2000));
       setCompressedSize(Math.floor(files[0].size * 0.6));
@@ -66,11 +117,12 @@ export default function CompressPDF() {
   };
 
   const handleDownload = () => {
-    // TODO: Implement actual download
-    console.log('Download triggered');
+    // This will be called if the user clicks the download button in the DownloadCard
+    // But we're already handling the download in handleCompress, so we can leave this empty
+    // or add a message to the user
     toast({
-      title: 'Download started',
-      description: 'Your compressed PDF is downloading...',
+      title: 'Info',
+      description: 'The download should have started automatically. If not, please try compressing the PDF again.',
     });
   };
 
@@ -131,7 +183,28 @@ export default function CompressPDF() {
               files={files}
               onFilesChange={setFiles}
               multiple={false}
+              accept=".pdf"
             />
+            <div className="mt-6 space-y-2">
+              <label htmlFor="quality" className="text-sm font-medium">
+                Compression Level
+              </label>
+              <div className="flex items-center space-x-4">
+                <input
+                  id="quality"
+                  type="range"
+                  min="0"
+                  max="100"
+                  value={quality}
+                  onChange={(e) => setQuality(parseInt(e.target.value))}
+                  className="flex-1"
+                />
+                <span className="w-12 text-right font-medium">{quality}%</span>
+              </div>
+              <p className="text-xs text-muted-foreground">
+                Lower quality = smaller file size
+              </p>
+            </div>
             {files.length > 0 && (
               <div className="mt-4 p-4 bg-muted rounded-lg" data-testid="card-file-info">
                 <p className="text-sm text-muted-foreground">Original file size</p>

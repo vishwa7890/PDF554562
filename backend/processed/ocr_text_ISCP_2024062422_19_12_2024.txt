@@ -1,0 +1,4405 @@
+--- Page 1 ---
+URd UPR/Government of India
+sida faurt/Department of Space
+ZAR. Wd SUMS Hs/U.R.RAO SATELLITE CENTRE
+Va. UU Wau Us, FFAG UR, STL - 560017
+HAL Airport Road, Vimanapura Post, BENGALURU — 560 017
+
+Ref No. URSC/PUR/H/EOI/ISCP 2024062422 18.12.2024
+
+100 V da & fee IMPP wt wifta og Saor Ht aftoaied Hr sau (Saitsits)
+Invitation for Expression of Interest [Eol] for the Realisation of
+IMPP for 100V BUS - reg
+
+SM sre Utes ae A sift Gan A souel wt Han F Yor Gar id av 15 S 20 sue
+wt Oita & FAR We SAR Sl Sate fae afte ten & scacita su yonfeat darcy,
+TAU TUT SAH SI AAR VIA ST aI S| SeaL- Hot uel & sedh sraxacra HT
+WUT HA Vd, 10-20 kW H ShCYC H BAT HEA HI AA Tiel Up Sl Holl HT Fas aleca
+Don Ae TS Sl VCs Ht saga TS S1 1-6 k SUAS CHT Sq Us Ged Fecal (100V),
+BAI Sul, ASR IT SPAT Hol Uepat HI Boar Ht TE SI
+
+ISRO is embarking on a mission to produce large number of satellites to be put in
+orbit in the next five years and is all set to realize 15 to 20 spacecraft per year. This
+calls for a large number of electronic sub-systems to be fabricated, tested and made
+ready for integration. In order to meet the growing demand of high-power satellites, it
+becomes imperative to realise a high power & high voltage power bus capable of
+handling output power of 10-20 kW. A high voltage (100V), high power, modular and
+optimized power package for 1-6 k satellite platforms has been envisaged.
+
+Gawd SoS SF GRE, uRa Afta at caret & siftecu, faore, dara
+TU Wao Sg URT UPR & sical fAury & ded HRs sical seer GISATERN HT
+aunt he SI ar A gomaaa 100V 38 & fee warHferd Agee Gut Yara (IMPP) HT
+fares BX ETB!
+
+U. R. Rao Satellite Centre [URSC], of Indian Space Research Organization [ISRO] under
+Department of Space, Government of India is the lead Centre of ISRO for Design,
+Development, Fabrication and Testing of all Indian made Satellites. Currently, URSC is
+developing integrated Modular Power Packages (IMPP) for 100V Bus.
+
+100V ae & feu warefea Ager Gul tea (MPP) HI Ulta eg Soslahet Alsa (EM) &
+fame Og ST 1 aiftroalsa or arta ar vee fear ora S| Tata aM, srqua/efegan gar
+Tata fade gsyfa aret dunfdd VTafasal Ht Salad & few sot saat HT siftroatea
+Het od afta fear ora e |
+
+It is proposed to invite Expression of Interest for development of Engineering Model
+(EM) hardware for realization of Integrated Modular Power Packages (IMPP) for 100V BUS.
+Potential Establishment[s]/ Vendor[s] having sufficient know-how, experience/expertise
+and sound financial background are invited to express their interest for the same.
+
+S oft aig qecidull GI SAR Fase www.isro.gov.in F Saas fea TT Goad es!
+
+EOI documents can be downloaded from our website www. isro.gov.in
+
+Page 1of5
+
+
+--- Page 2 ---
+Sal Hg HI Achat Hr aqua, Garsil & ar or Wa, Yaenst wt sada, weafaa
+Ore Caled TU HS SA, Hct AMAR TU Sey pl fata Baw sien we Heat
+fear ore are at § wa ersaar at Gael eq uRdia sat fered geo sella, sifted
+aan faxctour gyyfay e
+
+The EOI will be evaluated on the basis of bidder’s experience, its understanding of
+scope of services, facility infrastructure, proposed methodology and work plan, skilled
+manpower and the financial strength of the industry. Also Indian Industry with strong
+engineering, design and analysis background for the delivery of EM Hardware.
+
+fparepenut pl srest ae SASH aul HE Ace Sl al Suet Paro we eg FIR. Ud
+BUS HA ERI UH UE Sell Sow or sates fear STAT
+
+A Pre-Eol meeting will be arranged by U.R. Rao Satellite Centre, Bengaluru in order
+to have a better understanding of the activities involved, clarify doubts, if any.
+
+Ole Sa St A S SY Sig Ht Usa Hl Re PRA/ GA: GN HLA AT SAM Hl PE/fgarT
+Utd SEY OT SIH Faw. Taare
+
+URSC reserves the right to cancel/re-issue the process of EOI if the necessity so
+arises or to seek further information / details.
+
+ae bufywd a fet up a pucyel uenrsit A ur A & oR A ara a Ht Se Afar
+Tedd OA ot oie S sfeepa fear Ge sik Gad F si.ais canada oR fla Aer feat
+OTT |
+
+Companies / Firms, if found to have indulged in any corrupt or fraudulent practices,
+will be debarred from taking part in the Tendering process and their EOI document will
+not be taken up for consideration.
+
+aguia Pafcikad Gaal ot fata A saat ot siftroufad & wey A facharsil Hl Ueda PAT
+erm!
+
+Subsequently, the vendor(s) shall submit the response to Expression of Interest along
+with the following information in detail:
+
+1. | Sol eraeigd ud & ae wr, thaw, Se, sa safe
+
+Registered address of the company with Phone, Fax, Email, Web etc.
+
+2. | duties ot fifa chive g eaaawa Waa surfer Pott fersntey &
+Ue Cahtied HPN, ats & eRe HT ATA g UAT sia
+
+Company/Organization Status (PSU / Proprietary/MSME/ Partnership / Private
+Ltd., etc.) with Name and Address of Proprietor, Partners, Board of Directors etc.
+3. | Meant: ()YRcA BW) agai: AOR Fes HIPTA A uitsra Ale Vt a)
+
+Associates: (a) Indian (b) Foreign. Percentage of business partnership (if any).
+
+4. | Ta ada suytacnent ot dell & Bre WRI Oe a Sas Gd SAT
+
+List of Major Current Customers with full address and their Contact/Details.
+5. | Hosa Ufaen wr wafeieay Soereua oF SAY
+
+Details of Infrastructure Facilities owned / available.
+
+6. | Hott > yer unflant & aa a Val aut Sac UPT Sl Goll HT Ula |
+
+Page 2 of 5
+
+
+--- Page 3 ---
+Names and addresses of the major shareholders of the Company and the
+percentage of their share capital.
+
+7. | adnan alte Raid ot ule ated fred dx facia av wt Got a ori
+
+Capital and Turnover for the preceding Three Financial years with copy of latest
+Annual report.
+
+8. | Social fay atc BU Ylaeny
+
+Financial Capacity / Credit facilities available.
+
+9. | dart & aH a ual
+
+Name and Address of Bankers.
+
+10.| TUR Ga fees sar Galea €
+
+Trade Association to which industry belongs to
+
+11.) Seay fasta va 4 cotero Gar 04 Se
+Establishment/Sales/GST Registration and PAN Number.
+12.| TUR HI UPR
+
+Nature of Business
+
+13.| dart RI ont wa ot aiedd/faria ara
+
+Solvency/Financial capacity of the Firm issued by their bankers
+
+14.| SEM/SaM Ht sy Hls TAG ott Ud e1
+
+Any other information of the industries/ies considered relevant.
+
+15.] Ut Gael sik Hal & aal Hl Lea: Gecka Hrd EU Haat & usa
+
+The profile of the Company/ies clearly bringing out the area of Strength and
+
+weaknesses.
+
+16./ $ af ong A UM OF tq Maio Teel si AoA aay
+Self-Assessment Technical and Organisational competence to take part in the
+EOI
+
+17.| $ af ang A ae steakea ulster wr
+
+Response forms as mentioned in the EOI
+
+3 oi ans & fae ufafhar A auch cafes & AH & Uy Teas, Gel val Sach ten ars
+- Het Ud & Se Sl aleu
+
+Response to EOI must also include the name of the point of contact, together with
+the designation, appropriate contact number and e-mail address.
+
+¥ Ud-§ ail ag dow & farpenul al seast CRS WASH ale Hg Ues Sl Ht Saat arr
+HCA AU SURTad fHapea4nl Hl Het Sq 3G coatot faa Hl GAs ed FAR wd SayES
+HS ERI Up Uda Som or orator feat rae! sage faharst S ste 2 fH a sac
+fete, waa gd era oR a she dow A TT
+
+Pre-Eol Meeting:
+
+A Pre-Eol meeting is arranged by U.R. Rao Satellite Centre, Bengaluru in order to
+have a better understanding of the activities involved, clarify doubts if any. The
+interested Vendor[s] are hereby requested to take part in the Pre-Eol meeting on the
+Date, Time and Venue mentioned here below:
+
+Y-§ sil aig dow festa
+
+Date of Pre-Eol Meeting : 2™ oatt/January 2025 @l@dlk/Thursday)
+
+Page 3 of 5
+
+
+--- Page 4 ---
+Waa FT VIA/Time & Venue : 10:00 4/to 17:00 Ssi/Hours IST
+UH ot Oat sae Ha
+ZAR Wd SUIS He.
+fAHAURT STH
+TGS - 560017
+
+MOCC Conference Hall,
+U.R. Rao Satellite Centre,
+HAL Airport Road,
+Vimanapura Post,
+Bengaluru — 560 017.
+
+ud $ at ang dow & feu dod cafe PIT YS sifrpnt
+Za Wd SUIS He.
+fear Ste
+INAS — 560017, HASH] URNA
+Wad. 080 25084009
+3-Ae: pso_h@ursc.gov.in
+
+Focal Point for Pre-Eol Meeting : Purchase & Stores Officer
+U R Rao Satellite Centre,
+HAL Airport Road
+Bangalore — 560017, Karnataka, India
+Email: pso_h@ursc.gov.in
+Phone: 080-25084009
+
+swoon fama fares feaie & usc ud atch dom A um a are vfafaal & faa
+Rall Mints Huse He og afer - 14 fares dah cafes wt pus Gucier HY fsa
+& ufarta at gd - = af ong dow Yum cH eg ‘Miser Ua" aT eM Set TA
+A/S UA/ MIST B Vas Ua, ot en sified bad al (2) de Sa sar aleT |
+
+Vendor[s] may please provide the details of the representative[s] participating in
+Pre-Eol meeting well in advance prior to dates specified in Table-1 to URSC, Purchase in
+order to arrange for Security clearance. Vendor[s] representative shall carry an
+“Authorization Letter” for attending the Pre-Eol meeting. Member Representatives shall
+be limited to maximum of two (2) per bidder/ company/organisation.
+
+He: amt Freer aor a fasanah wl far we eq $ of ang A urd Ma orrared 81
+Note: Participation in Eol is mandatory to consider the vendor[s] further in
+tendering phase.
+
+HUNT Ae BY HT Farah ah ORAS A Reet of PSB udar/eera ae ear are
+
+Please note that request for advancement/postponement of any dates will not be
+entertained under any circumstances.
+
+UT a ae SeVe fAarsil S ale 8 fH 3 sas we A uF DSR A/S ERI
+ols URGea /Sa OT Wee Fel far STAT
+
+Page 4 of 5
+
+
+--- Page 5 ---
+The Interested Vendor[s] who are participating are required to be present on their
+own. No transportation/accommodation will be arranged by URSC/ISRO.
+
+eaci/Table-1
+
+qe fete ¢ SA
+Important Dates & Timings
+ud = ai ons dow eq wPHU/qwears a] 315 December 2024; 16:00 Hrs. IST
+urftart faa at veght ot sifaa fafa
+Last date of submission of clarification/
+queries & participation details for Pre
+EOI-Meeting
+
+yd _3 an us Ion 24 January 2025; 10:00 to 17:00 Hrs. IST
+
+Pre-EOI meeting
+
+S ol sis Gl Ulett wt tafe & few 30% January 2025 16:00 Hrs. IST
+sifea fara
+
+Last date for submission of response to Eol
+
+J ot ang & Gen a fafa 31t January 2025 10:00 Hrs IST
+Opening date of Eol
+
+$ aff ong & fare out ulefrar dae an cl tava: Geka Hed BU Za va Ma a
+feu Ud UX Uta ST Aleu aut Sued fete aul GAT & se AT
+
+Complete response to EOI, clearly super scribing the reference Number and due
+date of EOI, must be received at URSC to the address given below, not later than the
+date and time specified above.
+
+¢. WU, $a 7d YS Sr. Head, Purchase & Stores
+ZAR Id SUVS ax U R Rao Satellite Centre,
+Va U Ud Tae US
+
+HAL Airport Road,
+
+TGS -560017, URNA
+
+Bangalore — 560017, India
+
+fel SRO Fae "Sas Ht aiftioafaa” Hl elon a sedionr He HT siflor YAR va
+Tt ofa Tae S|
+
+URSC reserves the right to accept or reject all or any such “Expression of Interest”
+without assigning any reasons what so ever.
+
+Disclaimer: The English version shall always prevail in case any discrepancy or
+inconsistency between English and Hindi version of this Invitation.
+
+Sd/-
+
+ay Wu, Pad YSR/
+Sr. Head, Purchase & Stores
+
+KKREKKKEKEKKEKE
+
+Page 5 of 5
+
+
+--- Page 6 ---
+EXPRESSION OF INTEREST (Eol)
+
+FOR REALISATION OF
+INTEGRATED MODULAR POWER PACKAGES (IMPP)
+FOR 100V BUS
+
+November 2024
+
+Prepared by
+
+POWER SYSTEMS GROUP
+URSC/ISRO
+
+
+--- Page 7 ---
+TABLE OF CONTENTS
+
+SI.No Activities Page Nos.
+Abbreviations used 03
+ii. List of figures 05
+iii List of tables 05
+
+01 General information 07
+02 Objective 08
+03 Scope of work 08
+04 Introduction to IMPP for 100V bus 08
+05 Vendor selection criteria 11
+06 Eol proposal 16
+07 Eol/Indenting Process 17
+08 Realisation methodology 17
+8.1 Power conditioning unit 18
+
+8.2 Core power electronics 18
+
+09 Nature of work 20
+10 Role and responsibility of Vendor/URSC 22
+11 List of deliverables by Vendor 23
+12 Applicable documents/standards 24
+13 Technical information- Module specific 25
+13.1 Power modules (PM) 26
+
+13.2 | Bus capacitor card 30
+
+13.3 | Majority Voting Logic ( MVL) 32
+
+13.4 | Bus bar 35
+
+13.5 | Boost shunt regulator( BSR) 35
+
+13.6 | Decoder card 38
+
+13.7 | FPGA card 39
+
+13.8 | Domestic regulator (Domreg) 42
+
+13.9 | Battery current sensor (BCS) 43
+
+13.10 | Load current sensor (LCS) 45
+
+13.11 | Battery charge Regulator (BCR) 47
+
+13.12 | Individual cell monitoring ( |CM) 51
+
+13.13 | Self bias DC-DC converter 53
+
+13.14 | DROVP 55
+
+13.15 | Motherboard configuration 57
+
+14 Annexure 58
+A. Analysis to be performed 59
+
+B. Specification of automated test equipment 60
+
+C. Applicable documents/standards 63
+
+D. List of special equipments needed 64
+
+
+
+--- Page 8 ---
+i. ABBREVIATIONS USED:
+
+Al
+ATE
+ASIC
+BCR
+BCS
+BDR
+BLL
+BOM
+BRL
+BSR
+CC
+COC
+CPE
+CVCM
+DC
+DDR
+DomReg
+DR
+EEE
+EIDP
+EOC
+EOI
+EMI
+EMC
+ECAD
+EM
+EMI
+EMC
+ESD
+ESR
+FM
+FPGA
+FRB
+HMC
+H/W
+IBT
+ICM
+I-6k
+IC
+IMPP
+ISRO
+I/P
+
+Aluminium
+
+Automated Test Equipment
+Application Specific Integrated Circuit
+Battery Charge Regulator
+
+Battery Current Sensor
+
+Battery Discharge Regulator
+
+Bus Live Lug
+
+Bill of Material
+
+Bus Return Lug
+
+Boost Shunt Regulator
+
+Capacitor card
+
+Certificate Of Compliance
+
+Core Power Electronics
+
+Collected Volatile Condensable matter
+Direct Current
+
+Detailed Design Review
+
+Domestic Regulator
+
+Discharge Relay
+
+Electrical and Electronic & Electromechanical
+End item data pack
+
+End of Charge
+
+Expression of Interest
+Electromagnetic Interference
+Electromagnetic Compatibility
+Electronics Computer Aided Design
+Engineering Model
+
+Electro Magnetic Interference
+Electro Magnetic Compatibility
+Electro Static Discharge
+
+Effective Series Resistance
+
+Flight Model
+
+Field Programmable Gate Array
+
+Flat Ribbon Board
+
+Hybrid Micro Circuit
+
+Hardware
+
+Integrated Bench Tests
+
+Individual Cell Monitoring
+
+ISRO-6 ton kilogram class
+Integrated Circuit
+
+Integrated modular Power Packages
+Indian Space Research Organization
+Input
+
+
+--- Page 9 ---
+kW
+LCS
+LTP
+MB
+MIL-STD
+MOQ
+MVL
+NDA
+OEM
+O/P
+OVP
+PCB
+PCU
+PDR
+PID
+Pl
+Pkg
+PM
+PO
+PWM
+QM
+Redt
+SAR
+Sl
+SIM
+SMD
+T&E
+SMT
+TM
+TC
+TIM
+URSC
+UTP
+UUT
+
+kilo watt
+
+Load Current Sensor
+Lower Trip Point
+
+Mother Board
+
+Military Standard
+
+Minimum Order Quantity
+Majority Voting Logic
+Non-Disclosure Agreement
+Original Equipment Manufacturer
+Output
+
+Over Voltage Protection
+Printed Circuit Board
+Power Conditioning Unit
+Preliminary Design Review
+Process Identification Document
+Power Integrity
+
+Package
+
+Power Module
+
+Purchase Order
+
+Pulse Width Modulation
+Qualification Model
+Redundant
+
+Solar Array Regulator
+Signal Integrity
+
+Simulator
+
+Surface Mount Device
+Test & Evaluation
+
+Surface Mount Technology
+Telemetry
+
+Telecommand
+
+Thermal interface material
+UR Rao Satellite Centre
+Upper Trip Point
+
+Unit under Test
+
+
+--- Page 10 ---
+ii. LIST OF FIGURES:
+
+Fig. Activities Page
+Nos. No.
+1.1 Block diagram of IMPP for 100V bus 10
+1.2 Flow chart- Eol and indent process 17
+1.3 Indicative stacking diagram - IMPP 17
+1.4 Indicative stacking diagram —Battery PE modules 18
+1.5 Block diagram - Power Module ( PM) 26
+1.6 Block diagram - Bus capacitor card 30
+1.7 Block diagram - Majority voting Logic ( MVL) 33
+1.8 Block diagram - Boost shunt regulator (BSR) 36
+1.9 Block diagram - FPGA card 40
+1.10 | Block diagram - Battery Current sensor ( BCS) 43
+1.11 Block diagram - Load current sensor (LCS) 45
+1.12 | Block diagram - Battery charge regulator (BCR) 48
+1.13 | Block diagram - BCR Grounding scheme 48
+1.14 | Block diagram - ICM 52
+1.15 | Block diagram - Self Bias DC-DC converter 53
+1.16 | Block diagram - DROVP 55
+iii. LIST OF TABLES:
+
+Table | Module Details Page
+Nos. No.
+1.1 Vendor selection criteria 15
+1.2 Eol proposal 16
+1.3 No. of module required for PCU-10 kW of O/P Power 18
+1.4 No of modules required for battery PE Pkges. 19
+1.5 No. of module required for 10& 20 kW O/P Power 19
+1.6 Responsibility of URSC and vendor 23
+1.7 List of deliverables by vendor 24
+1.8 Input signal to PM Module 27
+1.9 Output signal from PM module 27
+1.10 | Component list- PM Module 30
+1.11 Input signal to Cap. card 31
+1.12 | Bidirectional signal — cap card 31
+1.13 | Output signal from cap card 31
+1.14 | Component list - cap card 32
+1.15 | Input signal to MVL card 33
+1.16 | Output signal from MVL card 34
+
+
+
+--- Page 11 ---
+1.17 | Component list - MVL card 35
+1.18 | Design details - Boost shunt regulator 36
+1.19 | Component list - Boost shunt regulator 38
+1.20 Design details - Decoder card 39
+1.21 Component list - Decoder card 39
+1.22 | Design details- FPGA card 40
+1.23 Component list - FPGA card 42
+1.24 | Specifications- Domestic regulator 43
+1.25 Design details - Battery current sensor 44
+1.26 | Component list - Battery current sensor 45
+1.27 Design details - Load current sensor 46
+1.28 Component list - Load current sensor 47
+1.29 Design details - Battery charge regulator 47
+1.30 | Component - Battery carge regulator 51
+1.31 Design details - ICM 52
+
+Component list - ICM 53
+1.33 Design details — Self bias DC-DC 54
+1.34 | Design details - DROVP 56
+1.35 Components list- DROVP 57
+
+
+
+--- Page 12 ---
+PART- 1
+1.0 GENERAL INFORMATION
+
+
+--- Page 13 ---
+2.0 OBJECTIVE:
+
+ISRO is embarking on a mission to produce large number of satellites to be put in
+orbit in the next five years and is all set to realize 15 to 20spacecraft per year. This
+calls for a large number of electronic sub-systems to be fabricated, tested and made
+ready for integration. In order to meet the growing demand of high power satellites, it
+becomes imperative to realise a high power& high voltage power bus capable of
+handling output power of 10- 20 kW. A high voltage (100V), high power, modular and
+optimized power package for I-6k satellite platforms has been envisaged and
+proposed in this document.
+
+U.R. Rao Satellite Centre (URSC) is currently developing Integrated Modular Power
+Packages (IMPP) for 100V Bus. For the realisation of IMPP, URSC is looking for the
+support of Indian industry with strong engineering, design and analysis background
+for the delivery of 3 sets of Engineering Model (EM) hardware.
+
+3.0 SCOPE OF WORK:
+
+URSC invites application for Expression of Interest (Eol) with a detailed proposal
+along with proof of vendor expertise to develop EM of IMPP for 100V power bus.
+After successful demonstration of first EM, subsequent EMs(2Nos) shall be realised,
+tested and delivered by incorporating the suggestions/observations made during first
+EM model evaluation. This document provides the basic information needed for
+expression of Interest related to IMPP for 100V bus. It further specifies vendor
+selection criteria, Eol proposal, indent process, design details, list of activities to be
+carried out and the responsibility of vendor and URSC in executing this work.
+
+The activities to be carried out by the vendor for the realisation of IMPP are the
+following
+
+e Mechanical housing design and analysis using aluminum alloy (AAG061) for
+20kW of output power and realization for 10kW.
+
+e PCB layout design for the circuit schematic provided
+
+e Verification of PCB design using appropriate software tools.
+
+e EEE component procurement and storage
+
+e Special test equipment procurement
+
+e PCB fabrication
+
+e SMT and through hole fabrication
+
+e Testing of cards and packages as per the specifications
+
+e Tuning of design to meet the specifications
+
+e Assembly of all the individual modules to form IMPP
+
+e Environmental testing at module and integrated levelas per the test levels
+provided
+
+
+--- Page 14 ---
+e Final Integrated bench testing of IMPP as per the specification
+
+This hardware is planned to be realized through qualified vendors who are familiar
+and have experience in aero space electronic hardware realization and who own
+necessary infrastructure for fabrication, testing, simulation/analysis and experience
+
+of handling high reliability (HIREL) EEE components.
+
+4.0 INTRODUCTION TO INTEGRATED MODULAR POWER
+
+PACKAGES FOR 100V BUS:
+
+This section gives a brief introduction regarding the functional aspects of different
+types of power electronics packages used in 100V IMPP. Figure 1.1 gives the block
+
+diagram of the proposed unit.
+
+IMPP for 100V power bus contains a single power stack PCU and battery electronics
+
+modules. PCU contains the following cards/packages/modules.
+
+CONAARWN >
+
+9.
+
+10.
+11.
+12.
+
+Domestic regulator
+
+Bus-bar
+
+Bus Capacitor
+
+Majority Voting Logic (MVL)
+
+Decoder
+
+FPGA
+
+Boost Shunt Regulator (BSR)
+
+Battery Charge Regulator (BCR)
+
+Power Module (Battery Discharge Regulator +Shuntswitch)
+Load current sensor (LCS)
+
+Domestic Regulator OVP& TM (DROVP)
+Mother boards
+
+The Battery Electronics module contains the following packages.
+
+1. Individual cell monitoring (ICM)
+2. Battery current sensor (BCS)
+3. Self-bias DC-DC converters
+
+The 100V PCU shall be designed to be of modular in construction with the modules
+interconnected by a mother board. The bus live and return shall be formed using
+
+insulated bus-bar.
+
+
+--- Page 15 ---
+PROPOSED 100V BUS ARCHITECTURE
+
+sitio) FDMs/LCL [J] FpMs/LCL
+
+pment an nn ne nm en eee seen we a aw a a ww ww ww ww ww ww nn er er ee = = = 1
+
+e ers!
+ee ae ee ee ee
+
+H Lcs]|_| ‘
+' <=> '
+STRING1,3 ! ISTRING 2,4
+
+Core|Power Electronics(CPE)
+ON/OEE Str SHUNT
+
+BDR
+
+OWN/OEE Str
+
+Decoder
+
+| | FPGA Redt
+
+FPGA Main
+
+SolarjArray
+
+Power Modules X 4
+Power Modules X 4
+
+of
+b |
+, ie
+; | 3
+1|s
+i] oO
+1 |=
+r ac
+
+wo
+| a
+
+il
+
+MVL
+Bus Cap. X 2
+
+DROVP
+LCS
+Dom. Reg M&R
+
+XC BSR Modules-1
+i7e7rrrnrn
+|
+(
+North Panel
+
+M& R
+
+elf Bias DC/D
+
+MIL1553B I/F
+
+Fig 1.1: Block diagram of IMPP for 100V bus
+
+
+--- Page 16 ---
+5.0 VENDOR SELECTION CRITERIA
+
+The vendor selection is a process to ensure that only industries with the capability to
+realise Power electronics modules in the range of 10kW of output Power along with
+necessary mechanical housing design, PCB design, necessary analysis capability
+shall be part of this activities.
+
+A detailed list of the vendor qualification criterion is provided in the table 1.4. The
+interested industries shall produce necessary documentary evidence to prove their
+capability to execute the above H/W(hardware) at the time of Eol submission. These
+responses will be evaluated by URSC and those vendors who are eligible based on
+the data provided will be selected. It may be noted that, Industries cannot participate
+directly in the RFP, if they have not participated in the Eol.
+
+Vendors shall fulfil the following requirements to become eligible to participate in the
+Eol, for end to end realization of 3 EM models of 100V Bus IMPP, as per the
+definition of work.
+
+Sl
+No
+
+completion mechanical
+OR package _ design
+Vendor should have aj|and Vendor shall
+product present in the | demonstrate the
+company catalogue | product based on
+/website meeting the | URSC request
+
+Experience in design and | fequirement.
+
+analysis of mechanical housing OR
+
+1 lor high power (at least 1kW per Shall provide information
+
+on a- product under
+
+Criterion
+
+module)
+
+Proof
+
+with a
+
+Purchase order
+certification for successful
+
+development which can be
+demonstrated within a
+short time.
+
+OR
+
+The vendor shall produce
+a letter of intent or valid
+
+Remarks
+
+The activity shall
+involve
+
+5 multilayer PCB design of high | certification for successful | involve PCB
+power (at least 1kW), high | completion design and
+density, mixed signal PCBs OR Vendor shall
+
+MoU with other
+entity/organisation.
+Experience in PCB layout and | Purchase order with a|The activity shall
+
+11
+
+
+--- Page 17 ---
+SI | Criterion Proof Remarks
+No
+Vendor should have aj|demonstrate the
+product present in the | product based on
+company catalogue | URSC request
+/website meeting the
+requirement.
+OR
+Shall provide information
+on a- product under
+development which can be
+demonstrated within a
+short time
+OR
+The vendor shall produce
+a letter of intent or valid
+MoU withother
+entity/organisation.
+Experience in fine tuning and | Shall produce
+evaluation of design and documentary evidence on
+3, lexpertise in closed loop stability | @"Y Product —_ already
+analysis of electronic circuit | designed or under
+using ATE or other equipments. | development which can be
+demonstrated on demand.
+Purchase order with a
+certification for successful
+Should have experience in | completion.
+realization or procurement of
+PCBs, Mechanical Housings and | oR
+4 \Consumables for realization of Vendor should have a
+avionics hardware. product present in the
+company catalogue
+/website meeting the
+requirement.
+Organization should be capable
+of procuring the EEE Parts from
+OEM/Authorized Distributors as | Purchase order with a
+5 |identified for realization of the | certification for successful
+above hardware. Vendors should | completion.
+have experience in storage and
+handling of EEE parts.
+6 [Organization Should have | Analysis reports carried
+
+12
+
+
+
+--- Page 18 ---
+Sl
+No
+
+Criterion
+
+Proof
+
+experience in the following
+analysis
+
+e Signal integrity (SI)
+analysis
+
+e Power integrity (Pl)
+analysis
+
+e EMI-EMC analysis
+
+e PCB and package level
+thermal analysis in
+conduction and radiation
+
+e Mechanical analysis for
+vibration/Modal analysis
+e Reliability assessment
+o FMECA&FTA
+o Worst Case circuit
+Analysis
+o De-rating analysis
+o Reliability
+prediction number
+
+out by the organisation
+internally on any package
+on modules having power
+of around 1KW for Sl, Pl
+analysis (frequency 24
+MHz), power dissipation
+greater than 100W in one
+module for thermal
+analysis with only
+conduction and radiative
+cooling.
+
+OR
+
+The vendor shall produce
+a letter of intent or valid
+MoU with other
+entity/organisation.
+
+Organization shall provide
+details about their experience for
+the design, analysis and
+fabrication of Insulated bus-bar
+to meet the — specifications
+provided by URSC.
+
+This requirements can be
+met by the vendor or shall
+produce a letter of intent
+to collaborate or a valid
+MoU with other entity
+
+Organisation — should have
+Experience in MIL-STD-1553
+based designs
+
+Purchase order with a
+certification for successful
+completion.
+
+OR
+
+Vendor should have a
+product present in the
+company catalogue
+/website meeting the
+requirement.
+
+OR
+
+Shall provide information
+on a- product under
+development which can be
+
+13
+
+
+
+--- Page 19 ---
+SI | Criterion Proof Remarks
+No
+demonstrated within a
+short notice.
+Organization can
+: , Proof F use their own /
+ocumentary roof o
+9 SMT ( Surface Mount certified facility or letter of a ties venesr
+Technology)facility intent or valid MoU with | ispo facility
+other entity/organisation through
+INSPACE.
+Organization can
+use their own /
+7 Documentary Proof of | other vendor
+410 Environmental test Facility(Hot certified facility or letter of facilities or use
+and cold , Thermal vacuum ) intent or a valid MoU with | jsRo facility
+other entity/organisation through
+INSPACE.
+Purchase order with a
+certification for successful
+Experience in generating design | completion /design
+requirements  /design and | document for similar in-
+development of automated test | house development.
+11 equipment for Electronics
+packages having capability to | OR
+interface through - standard
+protocols for instrument control | Shall produce aa letter of
+and through 1553 B with UUT. intent to
+collaborate/support — with
+the vendor
+Purchase order with a
+42 Experience in package level | certification for successful
+testing of electronics packages. | completion
+Should have an ESD safe URSC may
+laboratory and of minimum inspect the facility
+space >100 square meter, eg: to verify
+13 | certified by URSC/SAC_ or he produced. shall | ompliance.
+NABL accredited with ISO/ ,
+AS9100 certification which can
+be inspected.
+14 | Organisation — should have |Purchase order with a | Vendor shall
+
+14
+
+
+--- Page 20 ---
+SI | Criterion Proof Remarks
+No
+experience in conducting EMI- | certification for successful | provide analysis
+EMC tests and _ qualifying | completion. reports.
+products as per MIL-STD
+461C/E/F/G OR
+letter of intent or valid
+MoU with other
+entity/organisation
+Purchase order with a
+certification for successful
+Organisation — should have | completion.
+experience in designing for Vendor shall
+15 | vibration specification as per|OR provide analysis
+MIL-STD-810/DO-160G and reports.
+conducting vibration tests Shall produce a letter of
+intent or valid MoU with
+other entity/organisation
+Vendor should have a static IP | Necessary proof shall be
+16 address. provided
+Organisation shall sign a Non-
+47 Disclosure agreement with | To be complied
+URSC immediately after PO
+release.
+
+Table 1.1 Vendor selection criteria
+6.0 EOI PROPOSAL
+
+Vendor selection is strictly based on the documentary proof and compliance
+requirement as mentioned at table No. 1.1 Vendor shall also submit response for Eol
+proposal/plans along with documentary evidence, wherever applicable. The following
+table gives the details about the proposal.
+
+SI | Document name Remarks
+
+No.
+
+1 Organisation structure To be provided
+
+2 Vendor’s Project structure This shall include roles and responsibilities for
+executing this requirement
+
+3 Vendor capability and Documentary evidence and Compliance for
+
+Compliance vendor selection/qualification criterion as per
+
+table 1.1 and nature of work as per section 9.0
+of this document
+
+4 Project plan Shall contain the following
+
+15
+
+
+--- Page 21 ---
+SI | Document name Remarks
+No.
+e Work break down structure (Concept to
+delivery)
+e Schedule for EM1, EM2 and EM3
+realisation
+¢ Gantt chart & critical path
+¢ suggestions to reduce the critical issues
+5 List of Details of organisations/companies who will be
+
+organisations/Collaborations
+
+collaborating with the vendor in the form of letter
+of Intent or valid MoU. Vendor should be
+
+responsible for final project and _ product
+outcome.
+6 Detailed list of analysis Following questions need to be addressed for
+each analysis
+¢ Stage at which the analysis shall be
+performed.
+¢ Software/tools which will be used for the
+analysis
+e Which entity will be performing the
+analysis.
+7 PCB design e EMI-EMC plan and stage of analysis.
+8 PCB fabrication &assembly | The document shall contain all details & process
+plan from PCB fabrication to conformal coating,
+potting and radiation shielding along with
+TIM(Thermal interface material) implementation
+9 Mechanical hardware | The document shall contain design, material
+fabrication and assembly | fabrication, process activities (thermal and
+plan. mechanical), procurement and assembly with
+PCB along with thermal implementation.
+10 | Procurement plan for EEE Procurement plan shall be given/presented
+parts
+11 | List of software proposed This document shall provide all the software
+
+required to carry out the listed analysis/ activity.
+Software availability with organisation or letter of
+Intent) MoU details with other entities or
+procurement plan shall be mentioned. Refer
+Annexure A for analysis format at list of
+deliverables.
+
+Table 1.2 Eol proposal
+
+16
+
+
+
+--- Page 22 ---
+7.0 Eol/INDENTING PROCESS:
+
+Expression of Interest (Eol) for identifying a suitable vendor for the realisation of 3
+EM Models will have a pre-bid meeting where vendors will be briefed regarding the
+indenting process. Preliminary design details, block diagram, Bill of Materials(BoM)
+and details required to make a proposal is provided in this document. Participation in
+pre bid meeting is not mandatory for participation in Eol proposal submission.
+
+A detailed vendor selection criterion is provided at table 1.4.for which interested
+vendors are required to provide all the documentary proofs as per the list.
+
+Based on the data, vendor is expected to give a detailed proposal with all technical
+details along with project execution plan. A presentation from vendor may be sought
+to understand the proposal, if necessary. All responses will be evaluated by URSC
+and a list of qualified vendors will be made.
+
+An indenting process will be initiated in a Limited tender mode only among the
+qualified vendors whose Eol is found satisfactory for the above work. A flow chart of
+the Eol process mentioned in Fig 1.4
+
+EOI Publication
+
+15 days to study
+the proposal
+
+Pre Bid meeting at
+URSC , Bangalore
+
+30 days to
+submit proposal
+
+Receipt of proposal
+
+Proposal evaluation and
+intimation to vendors
+
+Closure of EOI
+
+Fig. 1.2: Eol process flow chart
+8.0 REALISATION METHODOLOGY
+
+The goal of this development is to deliver a single power stack (Power control unit)
+consisting of all power electronics hardware and battery related PE packages. It is
+planned, to realise this hardware with a weight of around 40kgs for 10kW of output
+power with an approximate dimension of 570x380x320 mm*.The design should be
+scalable to meet output power of 20kW with an approximate weight of around 60kg
+
+17
+
+
+--- Page 23 ---
+with a dimension of 800x380x320mm‘*. All electronic circuits in the power control unit
+is divided into two categories.
+
+HF et
+Mimiwim CPE Mimim|m
+
+Fig. 1.3 Indicative stacking diagram— IMPP - for 10kKW Output Power
+
+DOW
+VOW
+VOW
+
+DOW
+DOD
+DOD
+
+v¥ Power conditioners
+¥ Core power electronics
+
+PM= Power module; BCR = Battery charge regulator;
+BSR = Boost shunt regulator; CPE = Core power electronics
+
+8.1 Power Conditioning unit (PCU)
+
+Power module, BSR and BCR are the power conditioners. Power Module consist of
+1 BDR with either 1 or 2 ON/OFF strings depending on string capacity such that
+single module will be providing power irrespective of sun light or eclipse. Power
+Module will handle 1.25KW during eclipse and 2kW (approx.) will be handled during
+sun light.
+
+8.2 Core Power Electronics (CPE)
+
+Core Power electronics consists of Domestic Regulator, Bus capacitor, MVL,
+Decoder, FPGA, LCS and DROVP. Signal Interface between CPE
+cards/modules/packages will be through suitable interface. Signal interface between
+power conditioners and CPE will be through suitable interfaces.For external
+communication, 1553B protocol shall be used.
+
+Modules No. of modules required for
+10kW Output Power
+
+PM( BDR+ Shunt) 8
+
+BCR 3
+
+BSR 3
+
+Core power 1
+
+Table 1.3: No of modules required for PCU — 10kW of output Power
+
+Indicative stacking diagram of battery PE packages is mentioned at Fig 1.4
+
+18
+
+
+--- Page 24 ---
+Modules
+
+No. of modules required for
+10kW Output Power
+
+BCS
+
+2
+
+ICM
+
+3
+
+Self Bias DCDC
+
+1
+
+Table 1.4 No of modules required for Battery PE Pkges
+
+ICM
+Battery module1
+BCS
+
+ICM
+Battery module 2
+
+S Bias dce/de
+
+ICM
+
+Battery module 3
+
+BCS
+
+Fig 1.4 Indicative stacking diagram for Battery PE packages
+
+No. of modules required for Battery electronics module is mentioned at Table No. 1.4
+
+Note:1. For battery related PE hardware, circuit schematics, Mechanical design
+drawings and.dxf files will be provided by URSC.
+
+2. Mechanical design analysis is not needed for Battery modules
+
+The details of total packages needed for 100V IMPP for Output Power of 10kW and
+20kW are consolidated and mentioned at table 1.5
+
+SI. | Name of card/Pkg/Module Qty for Qty for Remarks
+No. 10kW 20kW
+01 | Power Module 8 16
+02 | Bus Capacitor 2 2
+03 | Majority Voting Logic (MVL) 1 1
+04 | Boost shunt regulator(BSR) 3 3
+05 | Decoder 1 1
+06 | FPGA 2 2 Main +Redt
+07 | Domestic regulator 2* 2* Main +Redt
+08 | Load current sensor(LCS) 2 2
+09 | Battery charge 3 3
+regulator(BCR)
+10 | ICM 3 3 Part of battery
+11 | BCS 2 2 Part of battery
+12 | Self-bias DC/DC 2* 2* Part of battery
+13 | Mother Board $ $
+14 | Bus bar # #
+15 ) DROVP 1 1
+
+Table 1.5: No. of Modules required for 10kW and 20kW IMPP for 100V bus
+
+19
+
+
+--- Page 25 ---
+Note: No of packages needed for 20kW of output power in the above table is for
+understanding the scalability requirement and to provide various Electrical and
+mechanical analysis mentioned at Table 1.1 and annexure A
+
+* Built to specifications
+# For interconnection of the packages
+$ - May vary based on the module/package design.
+
+9.0 NATURE OF WORK
+Realisation of 100V IMPP is divided into three phases.
+
+1.Configuration phase
+
+Initial phase starts after the PO is placed and NDA (Non-Disclosure
+Agreement) is signed between vendor and URSC.
+
+Schematics, Bill of material and Major specifications of the board & package
+for all the boards will be provided by URSC. Any suggestions or
+improvements can be proposed by vendor. Final decision to accept the
+proposal in part, total or to reject it is at URSC discretion.
+
+Vendor needs to carry out initial assessment of package, card level
+dimensions, PCB design, Mechanical housing design, assessment and
+implementation of thermal management scheme etc. to ensure that the mass
+and dimensions are met. After design finalization by the vendor, a joint
+Baseline Design Review (BDR) will be held by vendor to obtain clearance
+from URSC.
+
+Following aspects shall be discussed at the BDR stage:
+
+e Configuration of the IMPP
+
+e Rationale for arriving at a particular PCB and mechanical
+design/modifications
+
+e Schematic tuning/change (reason and rationale for the change)
+
+e PCB/mechanical housing design guidelines
+
+e Thermal management plan
+
+e EMI-EMC plan
+
+e Test system (Automated Test Equipment) plan
+
+e Test philosophy
+
+e Project execution plan and schedule
+
+e Process Identification Document (PID)
+
+e Procurement plan
+
+2. Design and Analysis phase
+
+20
+
+
+--- Page 26 ---
+After clearance from URSC, the vendor shall initiate card/board layout followed by
+below mentioned analysis for electronics/mechanical designs. ( Refer Annexure- A)
+
+e Signal integrity analysis
+e Power integrity analysis
+e PI& Thermal co-simulation
+e Card/package level thermal analysis
+e Card/package level structural analysis
+e Reliability assessment
+
+o FMECA & FTA
+
+o Worst Case circuit Analysis
+
+o De-rating analysis
+
+o Reliability prediction number
+e EMI/EMC analysis etc
+
+Vendor shall initiate mechanical design and carry out package level structural
+& thermal analysis and ensure designs shall meet the required specifications.
+After all the design objectives are met, vendor shall hold a joint Detailed
+Design Review (DDR) with URSC to obtain the clearance to proceed further.
+DDR shall include review of the following activities.
+e PCB design placement and routing
+e Review of schematic changes, if any
+e Signal integrity (SI) analysis
+e Power integrity (Pl) analysis
+e EMI-EMC analysis
+e PCB and package level thermal analysis in conduction and
+radiation modes
+e PCB and package level Mechanical analysis for vibration/Modal
+analysis
+e Reliability assessment
+o FMECA&FTA
+o Worst Case circuit Analysis
+o De-rating analysis
+o Reliability prediction number
+e Test system adequacy
+e Test case list
+e Component procurement process
+e Fabrication process
+e Project plan and schedule
+e PID
+Note: DDR clearance is a mandatory requirement to continue for further
+activities
+
+21
+
+
+--- Page 27 ---
+3. Realization and testing phase
+
+Vendor shall carry out component procurement, PCB fabrication, mechanical
+housing fabrication, wiring of the cards, card level and package level testing at
+vendor’s premises for initial clearance using vendor's test equipment. Test
+Equipment used by vendor for initial clearance shall be vendor’s responsibility.
+Vendor shall hold a joint first model(EM-1) test results review with URSC and
+obtain the clearance to proceed further.
+
+Materials and process shall be TML and CVCM compliant.
+Failure of components during any phase of the project shall be reported to
+URSC and required analysis shall be carried out.
+Test results review shall include a review of the following activities
+e Fabrication reports review
+e Process review
+e Test results review
+e PID
+
+Functional verification testing will be carried out by URSC to ensure all the
+design parameters are met or as expected and to bring out any design issues.
+Any issues observed during the first model (EM-1) testing need to be
+addressed, resolved and reviewed before proceeding to fabrication and
+delivery of second model and third model (EM2 &3) with necessary corrective
+implementation as observed during first model(EM-1) testing. Incremental
+analysis required shall be carried out by the vendor.
+
+10.0 ROLE & RESPONSIBILITY OF VENDOR & URSC
+
+Role and responsibility of vendor and URSC in mentioned in table 1.6
+
+SL. SUBJECT/DESCRIPTION Responsibility
+
+No.
+
+1. Schedule Planning Vendor
+
+2. Components Procurement Vendor
+Electrical design clearance during BDR, DDR and Clearance | URSC
+of Procured Components for use
+
+4. EEE Components Storage and Handling Vendor
+
+5. Procurement of fabrication tools and equipment Vendor
+
+6. Mech.Housing design Vendor
+
+7. Procurement of PCBs, Mechanical assemblies and Vendor
+consumables.
+
+8. Audit/ Clearance of PCB Layout, PCB’s, mechanical design URSC
+analysis and Mechanical Housings
+
+9. Test Equipment, Test Jigs Procurement & Calibration Vendor
+
+22
+
+
+
+--- Page 28 ---
+10. Package level Test System design evaluation and clearance URSC
+11. Facility audit & clearance URSC
+12. Production document preparation Vendor
+13. Production Document Approval URSC
+14. Review Board for material /process/fabrication Vendor
+15. Review Board for design/testing/non conformance Vendor
+16. Approval of disposition from vendor review boards URSC
+17. Focal point for work status reporting Vendor
+18. Testing and documentation Vendor
+19. Independent T&E (Test & Evaluation) Vendor
+20. Approval of Test Results URSC
+21. End Item Data Package (EIDP) including scanned copies of Vendor
+all fabrication/test folders
+22. Log Books, Folders & File Maintenance and Submission of Vendor
+same to URSC along with hardware.
+
+Table 1.6 Responsibilities - URSC& Vendor
+
+11.0 LIST OF DELIVERABLES BY VENDOR
+
+The list of deliverables from vendor at each phases are as follows:
+
+S. No.
+
+Deliverables
+
+Electrical, thermal and mechanical analysis report
+For EEE components:
+
+a. Part details such as part number, package style etc
+being procured
+
+b. Other requirements such as CoC(Certificate of
+compliance) and authorization letter.
+
+Mech. Housing and PCB design details or procurement details.
+The design should be available in the following formats.
+Schematic- ORCAD *.dsn
+
+PCB — Cadence with *.brd
+
+Mechanical design - *.prt
+
+Thermal design -*.idx
+
+Test console software — Lab view based source code
+
+PCB design and fabrication to be carried as per ISRO-PAX-301.
+
+Acceptance certificate of Mech. housing and PCB
+
+23
+
+
+
+--- Page 29 ---
+Equipment Calibration and validity certificates
+
+Ul. Fabrication / assembly folders for cards/ packages and
+inspection reports ( both hard and soft form)
+
+IV. Card Level Test Results
+
+V. Initial bench test results.
+
+Vi. Environmental test results.
+
+Vil. Final bench test results.
+
+Fabricated and tested packages/electronic hardware with
+certificates
+
+Package Level Test Systems details.
+
+VIII. Re-test Results if applicable & delivery of hardware along with
+revised Certificate and EIDP
+
+Table 1.7: List of deliverables by vendor
+
+12.0 APPLICABLE DOCUMENTS/ STANDARDS
+
+The documents mentioned at Annexure-C_ shall serve as_ reference
+documents/standards for this contract. This documents cover various phases of
+activity including workmanship standards, schematic design guidelines, non
+conformance control, failure reporting, ESD control, production assurance
+guidelines, EEE components management, de-rating guidelines, EMI/EMC test
+standards, thermal design and analysis, reliability prediction and guidelines for
+environmental tests. Vendors shall comply with all the requirements mentioned in
+these documents.
+
+24
+
+
+
+--- Page 30 ---
+PART-2
+13. TECHNICAL INFORMATION
+
+(CARD/MODULE /PACKAGE SPECIFIC)
+
+
+--- Page 31 ---
+13.1 Name of Design: Power Module (PM)
+
+a. Brief Description/functionality of module:
+
+The Power Module (PM) is responsible for processing power from battery as well as
+solar array. The PM is modular in nature to meet the different load power
+requirements of various spacecraft configuration. Each PM can process around 1.25
+kW of battery power and 2 kW of solar array power with 100V as the output. The
+battery power processing is done through a DC-DC converter whereas the solar
+array power is processed using a shunt regulator.
+
+b. Block diagram:
+
+= B
+2 +—>| «—_ — A <— Bias Supply
+z| C it—_ kK
+>| O Battery Discharge Regulator Battery Discharge Regulator }«*—__ ,
+x N DC-DC Power section DC-DC Control section —-—>) R
+fF] N N  <Control Signal
+< I—>| —»} =
+coL_ j
+i N
+i T
+R {Telemetry
+i F
+i A
+K > a Tele-Command
+a hare
+z md r
+>| C !
+ss 0) Solar array regulator Solar array regulator 4VE 5
+ce N Power section Control section o
+e| N i 2
+ft -—>| i e)
+5 “ 72)
+w VE 2
+
+Fig. 1.5 Block diagram — Power Module
+c. Powering scheme:
+
+PM receives bias supplies such as +14.7V, -14.7V, 5.7V & +12.7V from the domestic
+regulator for powering all the ICs present in PM and driving of MOSFETs. Two chain
+of bias supplies are required for redundancy purpose. Two hot redundant domestic
+regulators are used for providing two chains of bias supplies through back plane
+interfaces. No sequencing is required among the bias supplies and all are expected
+to be available at PM at the same time.
+
+d. Grounding scheme:
+
+Power module processes the battery power as well as solar array power. The power
+ground is isolated in the module from the bias supply ground. Since Distributed
+
+26
+
+
+--- Page 32 ---
+Single Point Grounding Scheme (DSPG) is followed, the bias grounds will get
+connected to the chassis of the module. +12.7V bias supply return will be connected
+
+to bus negative due to +12.7V utilisation in the circuit.
+
+e. Power handling and dissipation:
+
+Power Module handles 1250W of battery power and 2000W of solar array power.
+
+The module should able to handle maximum power dissipation of 45W.
+
+f. No of modules:
+
+For the planned 3 EM models of PCU for handling 10KW of output power, 8 power
+modules are required (with one module as redundant) to process the battery power.
+These modules are modular in nature and share the total power among themselves.
+
+g. Interface Details:
+I. Input Signals:
+
+S/ Description Remarks
+No
+
+1. Battery Live & Return Input 66V — 96V
+
+2. Solar Array Live & Return Input OV — 105V
+
+3. Bias Supply +14.7V,5.5V,12.7V
+
+4. MVL Signal +11V
+
+5. Tele-command 28V & 5V 64ms pulse, 5V level
+
+Table 1.8: Input signals — PM Module
+
+li. Output Signals:
+SI! No Description remarks
+1. Bus Live & Return Output 99V-103V
+2. Telemetries OV-5V
+
+Table 1.9: Output signals — PM Module
+
+h. Component List:
+
+PART NO QTY
+
+CDR31 1 KPF +/-10% TC +15%-25% 100V
+CDR31 10 KPF +/-10% TC +15%-25% 50V
+CDR31 2.2 KPF +/-10% TC +15%-25% 100V
+CDR31 8.2 KPF +/-10% TC +15%-25% SOV
+CDR32 1 KPF +/-1% 30 PPM 100V
+
+CDR32 12 KPF +/-10% TC +15%-25% 100V
+CDR32 2.2 KPF +/-5% 30 PPM 50V
+
+CDR32 27 KPF +/-10% TC +15%-25% 50V
+
+= BR AN Oa ab
+
+27
+
+
+--- Page 33 ---
+CDR32 8.2 KPF +/-10% TC +15%-25% 100V
+CDR33 0.1 UF +/-10% TC +15%-25% 50V
+CDR33 47 KPF +/-10% TC +15%-25% SOV
+CDR35 0.22 UF +/-10% TC +15%-25% 50V
+CDR35 0.47 UF +/-10% TC +15%-25% 50V
+CWR06 1 UF 5% 35V SNPB
+
+CWR29 22 UF 5% 25V SNPB-CASEH
+MLCC1206 47 KPF 10% 200V
+DSUB-COMBO-POWER-5W5M-90
+FRB-44-MC
+
+55548-W4
+
+YP-41306-TC
+
+YW-40907-TC
+
+1N4569-SMD
+
+1N4625-SMD
+
+1N4626-SMD
+
+1N4964-SMD
+
+1N5806-SMD
+
+1N5811-SMD
+
+1N6642-SMD
+
+1N945-SMD
+
+FM12A-15A-135V-RADIAL
+
+111-CFP10
+
+124-SOP14
+
+139-CFP14
+
+1825-CFP16
+
+1845A-DIP8
+
+4013B-CFP14
+
+4424-MBCFP16
+GP250-720-EDB-26V-L-CAN2
+
+RM0505 1 KOHM 1% 100 PPM 1/8W
+RM0505 1.21 KOHM 1% 100 PPM 1/8W
+RM0505 10 KOHM 1% 100 PPM 1/8W
+RM0505 100 KOHM 1% 100 PPM 1/8W
+RM0505 12.1 KOHM 1% 100 PPM 1/8W
+RM0505 15 KOHM 1% 100 PPM 1/8W
+RM0505 150 KOHM 1% 100 PPM 1/8W
+RM0505 4.12 KOHM 1% 100 PPM 1/8W
+RM0505 4.75 KOHM 1% 100 PPM 1/8W
+RM0505 47.5 KOHM 1% 100 PPM 1/8W
+RM0505 5.11 KOHM 1% 100 PPM 1/8W
+RM0505 5.76 KOHM 1% 100 PPM 1/8W
+RM0505 57.6 KOHM 1% 100 PPM 1/8W
+RM0505 8.25 KOHM 1% 100 PPM 1/8W
+
+Non
+
+OPM 2 OO a aa Rw Ao Bp a
+
+Fw XP
+
+BwoO A WAN |]=~ A NIN NN
+
+= =
+orm WANA G
+
+= = S| ew me
+
+28
+
+
+--- Page 34 ---
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 1.5 KOHM 1% 100 PPM 1/4W
+RM1206 10 KOHM 1% 100 PPM 1/4W
+RM1206 10 OHM 1% 100 PPM 1/4W
+RM1206 100 KOHM 1% 100 PPM 1/4W
+RM1206 110 KOHM 1% 100 PPM 1/4W
+RM1206 12.1 KOHM 1% 100 PPM 1/4W
+RM1206 121 KOHM 1% 100 PPM 1/4W
+RM1206 14.7 KOHM 1% 100 PPM 1/4W
+RM1206 18.2 OHM 1% 100 PPM 1/4W
+RM1206 182 KOHM 1% 100 PPM 1/4W
+RM1206 2 KOHM 1% 100 PPM 1/4W
+RM1206 2.21 KOHM 1% 100 PPM 1/4W
+RM1206 2.67 KOHM 1% 100 PPM 1/4W
+RM1206 20 KOHM 1% 100 PPM 1/4W
+RM1206 200 OHM 1% 100 PPM 1/4W
+RM1206 22.1 KOHM 1% 100 PPM 1/4W
+RM1206 221 OHM 1% 100 PPM 1/4W
+RM1206 24.3 KOHM 1% 100 PPM 1/4W
+RM1206 27.4 KOHM 1% 100 PPM 1/4W
+RM1206 3.01 KOHM 1% 100 PPM 1/4W
+RM1206 33.2 KOHM 1% 100 PPM 1/4W
+RM1206 332 OHM 1% 100 PPM 1/4W
+RM1206 4.75 KOHM 1% 100 PPM 1/4W
+RM1206 4.99 KOHM 1% 100 PPM 1/4W
+RM1206 47.5 KOHM 1% 100 PPM 1/4W
+RM1206 5.11 KOHM 1% 100 PPM 1/4W
+RM1206 5.62 KOHM 1% 100 PPM 1/4W
+RM1206 6.19 KOHM 1% 100 PPM 1/4W
+RM1206 6.49 KOHM 1% 100 PPM 1/4W
+RM1206 6.81 KOHM 1% 100 PPM 1/4W
+RM1206 75 KOHM 1% 100 PPM 1/4W
+RM1206 8.25 KOHM 1% 100 PPM 1/4W
+RWR80N 10 OHM 1% 2W
+
+RWR80N 182 OHM 1% 2W
+
+RWR80N 221 OHM 1% 2W
+
+RWR80N 3.01 KOHM 1% 2W
+
+RWR80N 3.01 OHM 1% 2W
+2N3637-SMD
+
+2N3700-SMD
+
+2N5666-TO5S
+
+DSUB-COMBO-5W5M
+
+58324-A2
+
+ZP-43615-TC
+
+SBP anna n2 8 ON WWRWRAN BABAR WWM BBB Bana aa any SB wWSBa BRB BRA DRT A co
+
+29
+
+
+--- Page 35 ---
+35CGQ150-TO254 10
+EL215-147-A-28V-L-CAN3 1
+
+Table 1.10: component List - PM Module
+13.2. Name of Design: Bus Capacitor
+
+a. Brief Description/functionality of module:
+
+The power bus provided to the user should have low impedance at the source. This
+low impedance of the bus is achieved by having sufficient low ESR capacitors.
+Capacitor bank is designed to do exactly the same job. The complete capacitor bank
+consist of 2 capacitor cards. Spacecraft is made ON using bus simulator concept.
+The interface of bus simulator to spacecraft power bus is housed along with the
+capacitor bank. The Power Conditioning Unit (PCU) requires bus voltage as
+feedback and powering the Domestic regulators. Fused bus voltage signal for these
+requirements are provided with this card.
+
+b. Block diagram:
+
+Bus Capacitor Bank
+
+j=} +V/E
+
+BUS INTERCONNECTION
+
+ZZ00
+
+BUS OUTPUT
+
+Bus Simulator Interface
+
+FUSED BUS
+OUTPUT
+ZZ00
+
+<
+
+BUS SIM
+INPUT
+
+Fig. 1.6 Block diagram — Bus Capacitor card
+c. Powering scheme:
+
+The capacitor card doesn’t contain any circuit which requires any biasing. Powering
+this card is via bus simulator input or directly connecting across the bus.
+
+d. Grounding scheme:
+
+30
+
+
+--- Page 36 ---
+Since this PCB doesn’t contain any circuit which requires any biasing, it doesn’t
+require any signal grounding scheme. The bus return present in the card is
+connected to bus bar return and doesn’t require any grounding with respect to
+
+chassis.
+
+e. Power handling and dissipation:
+
+Since this PCB hold the capacitor bank for the bus, it doesn’t require any
+specification related to power handling. All the power handled by this module are
+transient in nature. The PCB should be designed to handle power dissipation of the
+order of 2W. The bus simulator interface which interface the PCU with ground
+equipment shall dissipate a power of 8W. This power dissipation is only during
+
+ground operation and not during mission or inflight.
+
+f. No of modules:
+
+Two such modules are required for meeting the bus capacitance requirements.
+
+g. Interface Details:
+
+I. Input Signals:
+SI! No Description remarks
+1. Bus Simulator Live & Return Input OV — 105V
+
+Table 1.11: Input signal - Capacitor card
+li. Bi-directional Signals:
+
+SI! No Description remarks
+1. Bus Live & Return Input OV — 105V
+
+Table 1.12: Bidirectional signal - Capacitor card
+
+lii.Output Signals:
+SI! No Description remarks
+1. Fused Bus Live & Return outputs OV - 105V
+
+Table 1.13: Output signal - Capacitor card
+
+h. Component List
+
+PART NO
+DSUB-COMBO-POWER-3W3F-90
+DSUB-COMBO-POWER-3W3M-90
+DSUBN-15S-PCB-90L5
+FM12A-10A-135V-RADIAL
+FM12A-5A-135V-RADIAL
+
+QTY.
+
+NO — —|— =| Ph
+
+31
+
+
+--- Page 37 ---
+fo)
+
+RM1206 150 KOHM 1% 100 PPM 1/4W
+
+5CGQ150-TO254 2
+RM1206 150 KOHM 1% 100 PPM 1/4\W 8
+PM907NS 100UF 10% 170V-PM907S 26
+FM13-0.5A-125V-SMD 5
+DSUB-COMBO-POWER-3W3F-90 2
+DSUB-COMBO-POWER-3W3M-90 1
+DSUBN-15S-PCB-90L5 1
+FM12A-10A-135V-RADIAL 1
+FM12A-5A-135V-RADIAL 2
+RM1206 150 KOHM 1% 100 PPM 1/4\W 8
+5CGQ150-T0254 2
+RM1206 150 KOHM 1% 100 PPM 1/4\W 8
+PM907NS 100UF 10% 170V-PM907S 26
+FM13-0.5A-125V-SMD 5
+
+Table 1.14: Component List -— Bus Capacitor card
+13.3. Name of Design: Majority Voting Logic Card (MVL)
+
+a. Brief Description/functionality of module:
+
+The Battery Discharge Regulator (BDR) & Solar Array Regulator (SAR) regulates the
+bus voltage to a set point through a closed loop system. The voltage feedback for
+both BDR & SAR becomes very crucial for to achieve fully regulated power bus. For
+this reason the voltage feedback system is generated by a majority voting logic
+(MVL) circuit. Along with the two MVL circuits, one each for BDR & SAR, MVL card
+contains power bus voltage telemetry circuits and bus over voltage detection and
+control signal generation circuit for external loads.
+
+b. Block diagram:
+The block diagram of MVL card is shown in Fig. 1.7
+
+c. Powering scheme: MVL receives bias supplies such as +14.7V & -14.7V
+from the domestic regulator for powering all the |Cs. Two chain of bias supplies are
+required for redundancy purpose. Two hot redundant domestic regulators are used
+for providing two chain of bias supplies through back plane interfaces. No
+sequencing is required among the bias supplies and all are expected to available at
+MVL card at the same time.
+
+32
+
+
+--- Page 38 ---
+= >| > :
+= BUS VOLTAGE B [Bias Supply
+>| ¢ TELEMETRY A )
+S$ O c MVL signal
+=| Nn BDR MVL CONTROL C
+Zz N SECTION ™
+Zz [>
+3 P [—> Battery Sense
+—h—~| A
+>| BUS OVP Control E
+: 4 ~<—— Bias Supply
+Ss —>-| T
+= —E | MVL signal
+|
+2| § SAR MVL CONTROL R cM
+=/ Nn SECTION fc oo
+z itchi i [—> Battery Sense
+Ss N Ls Switching String Cc
+Q UTP/LTP Control E
+° [|
+
+Fi
+
+g. 1.7 Block diagram — Majority Voting Logic ( MVL)
+d. Grounding scheme:
+
+MVL card receives fused bus voltage for sensing purpose. These signals are
+referred to the signal ground rather than the power ground. Two grounding plane is
+required in this board to have isolation between BDR MVL and SAR MVL. BDR MVL
+circuit is connected to a ground plane which has provision to get either referred to
+signal ground in the PCB or to power ground through the interfacing connector. All
+the remaining circuits in the PCB are referred to the signal ground and can have
+connection with chassis of the package. This grounding follows the DSPG scheme.
+
+e. Power handling and dissipation:
+
+The electronics present in this board are for analog signal processing. The PCB
+should be designed to take care of heat dissipation of 3W.
+
+f. No of modules: Single MVL is planned for PCU.
+
+g. Interface Details:
+
+I. Input Signals:
+SINo _ Description remarks
+1. Bus Live & Return Input OV — 110V
+2. Battery Sense live 66V — 96.6V
+3. Bias Supply +14.7V
+
+Table 1.15: Input signal — MVL card
+
+33
+
+
+--- Page 39 ---
+li. Output Signals:
+SI! No Description
+
+1. MVL Signals
+
+2. Telemetries
+
+3. Battery Sense live
+4. BUS OVP signal
+
+Table 1.16: Output signal — MVL card
+
+h. Component List:
+
+CDR33 0.1 UF +/-10% TC +15%-25% 50V
+CKRO5 180 PF 10% 200V
+DSUBN-25P-PCB-90L5
+
+FRB-44-MC
+
+1N4569-SMD
+
+1N4626-SMD
+
+1N6642-SMD
+
+1N945-SMD
+
+111-CFP10
+
+124-SOP14
+
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 10 KOHM 1% 100 PPM 1/4W
+RM1206 100 KOHM 1% 100 PPM 1/4W
+RM1206 12.1 KOHM 1% 100 PPM 1/4W
+RM1206 140 KOHM 1% 100 PPM 1/4W
+RM1206 147 KOHM 1% 100 PPM 1/4W
+RM1206 15 KOHM 1% 100 PPM 1/4W
+RM1206 2 KOHM 1% 100 PPM 1/4W
+RM1206 2.21 KOHM 1% 100 PPM 1/4W
+RM1206 20 KOHM 1% 100 PPM 1/4W
+RM1206 221 OHM 1% 100 PPM 1/4W
+RM1206 27.4 KOHM 1% 100 PPM 1/4W
+RM1206 332 OHM 1% 100 PPM 1/4W
+RM1206 4.02 KOHM 1% 100 PPM 1/4W
+RM1206 4.75 KOHM 1% 100 PPM 1/4W
+RM1206 47.5 KOHM 1% 100 PPM 1/4W
+RM1206 5.11 KOHM 1% 100 PPM 1/4W
+RM1206 5.62 KOHM 1% 100 PPM 1/4W
+RM1206 51.1 KOHM 1% 100 PPM 1/4W
+RM1206 52.3 KOHM 1% 100 PPM 1/4W
+RM1206 9.31 KOHM 1% 100 PPM 1/4W
+RM1206 93.1 KOHM 1% 100 PPM 1/4W
+RNC55J 22.1 KOHM 0.1% 1/10W
+RNC55J 665 KOHM 0.1% 1/10W
+
+remarks
++11V
+
+OV-5V
+
+66V — 96.6V
++14V
+
+=
+PON oye)
+
+YN DD D Oo
+
+34
+
+
+--- Page 40 ---
+RNRSSE 1.5 KOHM 0.1% 1/10W 2
+RNRSSE 10 KOHM 0.1% 1/10W 10
+RNRSSE 15.8 KOHM 0.1% 1/10W 4
+RNRSSE 165 KOHM 0.1% 1/10W 3
+RNRSSE 200 KOHM 0.1% 1/10W 4
+RNRSSE 27.4 KOHM 0.1% 1/10W 2
+RNRS5SE 3.65 KOHM 0.1% 1/10W 2
+
+RWR80N 150 OHM 1% 2W 54
+RWR8O0N 2.21 KOHM 1% 2W 14
+2N2907-SMD 20
+2N3700-SMD 22
+
+Table 1.17: Components List - MVL card
+13.4. Name of Design: Bus bar
+
+a. Brief Description/functionality of module:
+
+The proposed Power Conditioning Unit (PCU) features the power bus formation
+inside the package. The formed power bus is connected to spacecraft distribution
+bus bar. The bus bar module contains the bus bar which facilitate the connection of
+formed bus bar inside the package to the distribution bus bar. As whole of the
+spacecraft load current pass through these bus bar, the Load Current Sensors (LCS)
+sensing unit is accommodated along with these bus bar.
+
+13.5. Name of the design: Boost Shunt Regulator (BSR)
+
+S.No Parameters Remarks
+
+1 Name of Design Boost Shunt Regulator (BSR)
+
+2 Brief Description/functionality of Boost shunt regulator is a Pulse Width
+module Modulator based current fed boost
+
+converter with solar array as the input
+and bus as its output. It keeps the solar
+array voltage fixed and eliminates the
+array switching from zero voltage to
+Bus voltage.
+
+35
+
+
+--- Page 41 ---
+2a
+
+2b
+
+2c
+
+2d
+
+2e
+2f
+
+2g
+
+3
+
+Block diagram
+
+Powering scheme
+
+Grounding scheme
+
+Power handling and dissipation
+
+No of modules
+Interface Details
+
+Input/ output Information
+
+Component List
+
+BUS_LIVE
+
+Bypass
+- ?
++L
+T
+
+Fig: 1.8 Block diagram- Boost shunt
+regulator
+
+SA
+
+(~)
+Str. Uj
+
+BUS_RTN
+
+Input is Solar Array Simulator & Output
+is the BUS. Before Powering On,
+ensure load current is greater than
+string current capacity.
+
+Signal ground and Bus RITN shall be
+connected externally.
+
+BSR handles 100V @ 12A i.e. 1200W
+power with a dissipation of 30W.
+
+Three (03).
+
+It needs MVL signal for regulating the
+Bus. It gives string voltage as analog
+telemetry. A 5V level command can be
+exercised under the failure and load
+demand conditions.
+
+Input is Solar Array Simulator & Output
+is the BUS.
+
+Summary of active & passive elements
+( type/style/Qty): Mentioned separately
+
+Table 1.18: Design details - Boost shunt Regulator modules
+
+Component List
+
+TYPE
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+
+PART NO
+78845A-DIP8
+4093B-CFP 14
+111-TO99
+4049UB-CFP16
+78845A-CFP8
+2941-SOP16
+
+PACKAGE QUANTITY
+
+DIP8 2
+CFP14 2
+TO99 2
+CFP16 1
+CFP8 1
+SOP16 1
+
+36
+
+
+--- Page 42 ---
+ICS
+
+ICS
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+DIO
+
+TRA
+TRA
+TRA
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+
+1708-DIP8
+
+124-SOP14
+
+1N4625-SMD
+
+1N6328-DO035
+
+1N4569-SMD
+
+1N4627-SMD
+
+HFB16HY20C-TO257
+
+1N6642-SMD
+
+1N5806-SMD
+
+1N5811-SMD
+
+1N5822-SMD
+
+NEW-2N7586-TO254AA
+
+2N3019-TO5
+
+2N5666-TO5
+
+RER75 1.5 OHM 1% 30W
+
+RLRO7 33 KOHM 2% 1/4W
+
+RM1206 16.2 OHM 1% 100 PPM 1/4W
+RM1206 9.09 KOHM 1% 100 PPM 1/4W
+RM1206 12.1 KOHM 1% 100 PPM 1/4W
+RM1206 1.21 KOHM 1% 100 PPM 1/4W
+RM1206 150 KOHM 1% 100 PPM 1/4W
+RM1206 6.81 KOHM 1% 100 PPM 1/4W
+RWR80N 274 OHM 1% 2W
+
+RM1206 10 OHM 1% 100 PPM 1/4W
+RM1206 22.1 KOHM 1% 100 PPM 1/4W
+RM1206 17.4 KOHM 1% 100 PPM 1/4W
+RM1206 35.7 KOHM 1% 100 PPM 1/4W
+RM1206 4.75 KOHM 1% 100 PPM 1/4W
+RM1206 15 KOHM 1% 100 PPM 1/4W
+RWR80N 332 OHM 1% 2W
+
+RM1206 3.32 KOHM 1% 100 PPM 1/4W
+RNRS5SSE 11.7 KOHM 0.1% 1/10W
+RNRSSE 2.7 KOHM 0.1% 1/10W
+RNRS5SE 56.2 KOHM 0.1% 1/10W
+RM1206 100 KOHM 1% 100 PPM 1/4W
+RM1206 47.5 KOHM 1% 100 PPM 1/4W
+RM1206 475 KOHM 1% 100 PPM 1/4W
+RM1206 5.62 KOHM 1% 100 PPM 1/4W
+RM1206 56.2 KOHM 1% 100 PPM 1/4W
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 33.2 KOHM 1% 100 PPM 1/4W
+RWR80N 6.04 OHM 1% 2W
+
+RM1206 27.4 KOHM 1% 100 PPM 1/4W
+RWR80S 2.21 KOHM 1% 2W
+
+RM1206 5.11 KOHM 1% 100 PPM 1/4W
+RM1206 1.5 KOHM 1% 100 PPM 1/4W
+
+DIP8
+SOP14
+SMD
+DO7/DO35
+SMD
+SMD
+TO257
+SMD
+SMD
+SMD
+SMD
+TO254AA
+TO5/TO39
+TO5/TO39
+RER75
+RCRO7
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RWR80
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RWR80
+RM1206
+RNC55
+RNC55
+RNC55
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RM1206
+RWR80
+RM1206
+RWR80
+RM1206
+RM1206
+
+= (ge) = 6U}F
+BNO®ONNNAANNBAANANANTAGTAHGFGSeN ROaARAN
+
+=
+1)
+
+= OO NM |= |= BR a2 OO 3 HM LHL |= |= 3 O
+
+37
+
+
+--- Page 43 ---
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+COR
+COR
+COR
+COR
+FUS
+FUS
+
+RM1206 2.21 KOHM 1% 100 PPM 1/4W RM1206 1
+RWR80N 1 OHM 1% 2W RWR80 1
+RNRS5SE 750 OHM 0.1% 1/10W RNC55 1
+RM1206 3.92 KOHM 1% 100 PPM 1/4W RM1206 1
+RM1206 2 KOHM 1% 100 PPM 1/4W RM1206 4
+RM1206 8.66 KOHM 1% 100 PPM 1/4W RM1206 1
+RM1206 48.7 KOHM 1% 100 PPM 1/4W RM1206 7
+NEW-PM948NS-4 4.7UF 10% 200V -NA NA 4
+NEW-PM948NS-4 8.2UF 10% 170V-NA NA 10
+CKRO6 10 KPF 10% 200V CKRO6 10
+CDR34 0.18 UF +/-10% TC+15%-25% SOV CDR34 18
+CDR32 470 PF +/-1% 30 PPM 100V CDR32 4
+CDR35 0.22 UF +/-10% TC +15%-25% SOV CDR35 2
+CDR33 1 KPF +/-10% 30 PPM 100V CDR33 2
+CKRO6 0.1 UF 10% 100V CKRO6 2
+CDR33 2.2 KPF 1% 30 PPM 100V CDR33 2
+CDR31 220 PF +/-1% 30 PPM 100V CDR31 1
+MLCC2225 1.2 UF 10% TC +15%-15% 200V MLCC2225 7
+CDR34 27 KPF +/-10% TC +15%-25% 100V CDR34 2
+MLCC2225 2.2 UF +/-5% TC +15%-15% 50V MLCC2225 17
+CWR29 4.7 UF 5% 50V SNPB-CASEH CWR29-H 6
+CKRO6 0.56 UF 10% 50V CKRO6 4
+CWR29 15 UF 5% 35V SNPB-CASEX CWR29-X 2
+58109-A2 NA 1
+554 10-W4 NA 1
+YP-40705-TC NA 2
+55287-M4 NA 1
+FM12A-15A-135V-RADIAL RADIAL 3
+FM12A-5A-135V-RADIAL RADIAL 1
+
+Table 1.19: Components list - Boost shunt Regulator module
+
+13.6. Name of the design: DECODER
+
+S.No Parameters
+
+1
+2
+
+2a
+2b
+
+Name of Design
+
+Brief Description/functionality of
+
+module
+
+Block diagram
+Powering scheme
+
+Remarks
+
+DECODER
+
+The requirement of commanding is very high in
+this system hence a separate decoder circuit is
+planned. The FPGA card generates. the
+necessary control signals to those card to
+decode the command pulse of level commands.
+The 5V commands are distributed directly or
+some case converted to 28V commands with
+high current drive support and distributed.
+Domestic Regulator + 6.140.3V: ~20mA
+Specifications + 24+0.3V: Pulse
+
+38
+
+
+--- Page 44 ---
+estimated 50mA
+
+2c Grounding scheme DSPG scheme for 5V & 24V commands
+
+2d Power handling and dissipation There are no high dissipating components in the
+PCB. The maximum estimation in complete PCB
+will be about Pulsed ~1W
+
+2e No of modules 1
+2f Interface Details 5V /24V interface to Relays
+3 Component List Summary of active & passive elements
+
+( type/style/Qty): Mentioned below
+
+Table 1.20: Design Details — Decoder card/ module
+
+COMPONENT LIST:
+
+SI. No. Component Details Package Quantity
+ICS
+1 High Side Relay Driver HMC CFP44 5
+2 UCDA ASIC (URSC Supplied) CQFP256 2
+3 CD4050-CFP16 CFP16 2
+4 CD40106B-CFP14 CFP 14 2
+5 GP250-720-EDB-26V-L-CAN2 CAN2 2
+6 TPS7H4501-SP CFP16 2
+7 TPS7H2201-SP CFP16 2
+8 1N6642-SMD DO213AA 100
+9 1N5806-SMD DbA 4
+10 CDR33 0.1 UF +/-10% TC +15%-25% 50V CDR33 28
+11 RM0505 1 KOHM 1% 100 PPM 1/20W RM0505 30
+12 RM0505 10 KOHM 1% 100 PPM 1/20W RM0505 30
+13 RM0505 100 KOHM 1% 100 PPM 1/20W RM0505 30
+14 DSUBN-50P-PCB-90L5 - 2
+15 FRB-144-ML - 1
+
+Table 1.21: Components List - Decoder card/ module
+
+13.7. NAME OF DESIGN: FPGA CARD
+
+S.No Parameters Remarks
+
+1 Name of Design FPGA CARD
+
+2 Brief The requirement of commanding is very high in this
+Description/functionality system hence a separate decoder card is planned.
+of module The FPGA card generates the necessary control
+
+signals to those card to decode the command pulse
+of level commands. The 5V commands are
+distributed directly or some case converted to 28V
+commands with high current drive support and
+distributed.
+
+39
+
+
+--- Page 45 ---
+2a
+
+2b
+
+2c
+
+2d
+
+2e
+2f
+
+29
+
+2h
+3
+
+Block diagram
+
+Powering scheme
+
+Grounding scheme
+
+Power handling and
+dissipation
+
+No of modules
+Stacking of
+modules/stacking
+diagram
+Interface Details
+
+Input/ output Information
+Component List
+
+DWOCOCOCO
+1553 To
+TX/RX jecccooco 1553 Bus
+
+Analog AMUX || ADC L=>| |___» Control
+TMs +> Signals
+
+— ) | )~6 FPGA
+Digital TMs — Digital _ [K-— = Commands
+[>]
+
+Fig: 1.9: Block diagram: FPGA card
+
+Domestic +14.740.5V: ~20mA
+
+Regulator -14.7+0.5V : ~10mA
+
+Specifications + 6.1+0.3V: ~250-300mA,
+
+estimated ~1.2A pulsed 2ms for every
+1s
+
+Derived Voltages 5V, 3.3V and 1.5V
+for Digital devices
+Voltages for Analog +14V, 5.6V and 3.3V
+devices (Derived)
+DSPG scheme
+Short Analog Ground and Digital Ground at ADC
+end and connect same to CHASIS through low
+impedance planes.
+There are no high dissipating components in the
+PCB. The maximum estimation in complete PCB will
+be about 3.5W
+2
+
+1553 interface for external communication and
+signal interface O-5V analog /digital between
+modules.
+
+Refer below section
+
+Table 1.22: Design Details - FPGA Card
+
+Details for SI. No. 3 above: Component List
+
+TYPE
+CAP
+
+PART NO.
+
+QTY
+
+CDR31 1 KPF +/-10% TC +15%-25% 100V 8
+
+40
+
+
+--- Page 46 ---
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+DIO
+DIO
+DIO
+DIO
+DIO
+HMC
+HMC
+HMC
+HMC
+HMC
+HMC
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+OSC
+REL
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+
+CDR31 10 KPF +/-10% TC +15%-25% 50V
+CDR31 150 PF +/-1% 30 PPM 100V
+
+CDR32 6.8 KPF +/-10% TC +15%-25% 100V
+
+CDR33 0.1 UF +/-10% TC +15%-25% SOV
+
+CDR33 22 KPF +/-10% TC +15%-25% 100V
+
+CDR35 0.22 UF +/-10% TC +15%-25% 50V
+CDR35 0.47 UF +/-10% TC +15%-25% 50V
+CWR29 10 UF 5% 35V SNPB-CASEH
+CWR29 33 UF 5% 15V SNPB-CASEH
+CWR29 47 UF 5% 10V SNPB-CASEH
+1N4569-SMD
+
+1N4627-SMD
+
+1N5806-SMD
+
+1N5822-SMD
+
+1N6642-SMD
+
+09C102L-SIP9
+
+09C103L-SIP9
+
+09C104L-SIP9
+
+09C223L-SIP9
+
+09C472L-SIP9
+
+09C474L-SIP9
+
+124-SOP14
+
+128S5102-FPWG16
+
+136-2.5V-TO46
+
+238A790-211T-CFP28
+
+4050-5V-SOP10
+
+43-CFP10
+
+54ACTQ16244-CFP48
+
+54HC14-CFP14
+
+54LVTH162244-CFP48
+7A4501-MBCFP10
+BU67402F80KL-431Z-MBCFP36
+RTAX2000S-CQFP352
+OSC-24MH3.3VHCMOS-SMD4
+GP250-720-E00-26V-L-CAN2
+
+RM0505 1 KOHM 1% 100 PPM 1/8W
+RM0505 1.5 KOHM 1% 100 PPM 1/8W
+RM0505 10 KOHM 1% 100 PPM 1/8W
+RM0505 100 KOHM 0.1% 100 PPM 1/8W
+RM0505 100 KOHM 1% 100 PPM 1/8W
+RM0505 15 KOHM 1% 100 PPM 1/8W
+RM0505 15.4 KOHM 1% 100 PPM 1/8W
+RM0505 162 OHM 1% 100 PPM 1/8W
+RM0505 221 KOHM 1% 100 PPM 1/8W
+RM0505 3.01 KOHM 1% 100 PPM 1/8W
+RM0505 30.1 KOHM 1% 100 PPM 1/8W
+
+fo N
+NTN SS
+
+RNOONANN BR = ©
+
+yO #B BM DM
+
+=
+oO
+
+ol o|) =| a] =! 3) wl pol al a! ol alm a] al
+K
+
+wo
+(o>)
+
+Norm saa aN N
+
+41
+
+
+--- Page 47 ---
+RES RM0505 33.2 KOHM 1% 100 PPM 1/8W 1
+RES RM0505 47.5 KOHM 1% 100 PPM 1/8W 1
+RES RM0505 5.11 KOHM 1% 100 PPM 1/8W 1
+RES RM0505 5.62 KOHM 1% 100 PPM 1/8W 9
+RES RM0505 5.76 KOHM 1% 100 PPM 1/8W 2
+RES RM0505 562 OHM 1% 100 PPM 1/8W 14
+RES RM0505 750 KOHM 1% 100 PPM 1/8W 2
+RES RM0505 90.9 OHM 1% 100 PPM 1/8W 4
+RES RM1206 1 KOHM 1% 100 PPM 1/4W 12
+RES RM1206 1.74 KOHM 1% 100 PPM 1/4W 6
+RES RM1206 10 KOHM 1% 100 PPM 1/4W 8
+RES RM1206 12.1 KOHM 1% 100 PPM 1/4W 2
+RES RM1206 14.7 KOHM 1% 100 PPM 1/4W 2
+RES RM1206 16.5 KOHM 1% 100 PPM 1/4W 2
+RES RM1206 18.2 KOHM 1% 100 PPM 1/4W 8
+RES RM1206 19.6 KOHM 1% 100 PPM 1/4W 1
+RES RM1206 20 KOHM 1% 100 PPM 1/4W 6
+RES RM1206 22.1 KOHM 1% 100 PPM 1/4W 4
+RES RM1206 249 OHM 1% 100 PPM 1/4W 4
+RES RM1206 33.2 KOHM 1% 100 PPM 1/4W 10
+RES RM1206 4.75 KOHM 1% 100 PPM 1/4W 4
+RES RM1206 470 OHM 1% 100 PPM 1/4W 1
+RES RM1206 5.62 KOHM 1% 100 PPM 1/4W 7
+RES RM1206 681 OHM 1% 100 PPM 1/4W 2
+RES RWR80N 200 OHM 1% 2W 4
+RES RWR80N 221 OHM 1% 2W 16
+
+TRA 2N2907-SMD
+TRA 2N3700-SMD
+TRA 66168-TO78
+
+= o- NO =| —
+
+ICS TPS7H2201-SP
+CORE SRFB1206-601
+ICS 4050-2.5V-SOP10
+
+Table 1.23: Component List - FPGA card
+13.8. Name of the design: DOMESTIC REGULATOR
+
+The vendor shall design and realise the dc-dc converter as per the specification
+given with necessary protection scheme( Built to spec)
+
+a. SPECIFICATIONS:
+
+Domestic regulator Module consists two numbers of DC-DC converter(main &
+redundant) which should have output voltages capable of supporting all the power
+electronics circuits mentioned above
+
+SPECIFICATIONS
+
+42
+
+
+--- Page 48 ---
+Outputs Specifications
+1. Output-1 +14.7V/3500 mA
+2. Output-2 -14.7V/1700 mA
+3. Output-3 12.7V/500 mA
+4. Output-4 6.0 V/800 mA
+5. Output-5 24.0 V/150mMA
+6. Max. Output Power per Dom- 85W
+
+regulator
+
+7. EMI/EMC Compliance MIL-461G/URSC Standard
+
+Table 1.24: Specifications - Domestic Regulator
+
+b. PROTECTION SCHEME:
+
+e Dom-reg Over load/short circuit protection feature for all the outputs
+
+13.9. NAME OF THE DESIGN: BATTERY CURRENT
+SENSOR (BCS)
+
+1
+2
+
+2a
+
+2b
+2c
+2d
+
+2e
+2f
+
+2g
+2h
+
+Name of Design
+Brief
+
+Description/functionality of
+
+module
+
+Block diagram
+
+Powering scheme
+Grounding scheme
+Power handling and
+dissipation
+
+No of modules
+Stacking of
+
+modules/stacking diagram
+
+Interface Details
+Input/ output Information
+
+BCS
+
+The battery current sensor (BCS) will be a non-
+contact magnetic based current sensor.Battery
+current sensor (BCS) provides the charge and
+discharge current passing through the battery.
+
+Fig: 1.10: Block diagram: Bat. Current sensor
+Powered with +/-14V
+
+DSPG
+
+<200mA &<1W
+
+2
+Part of battery module
+
+0 to 5V interface to core power FPGA
+Input: 50A Charge & 190A discharge
+
+43
+
+
+--- Page 49 ---
+Output: charge & discharge with 2 ranges
+-50A(charge) to 190A(discharge)
+Total 4 ranges with 0 to 5V
+
+3 Component List Summary of active & passive elements (
+type/style/Qty): Mentioned below
+
+Table 1.25: Design details — Battery current Sensor
+
+Details for serial No.3 above: Component List (for one Module)
+
+PART NO QTY.
+
+CDR31 1 KPF +/-10% TC +15%-25% 100V 3
+
+CDR31 10 KPF +/-10% TC +15%-25% SOV 4
+
+CDR33 0.1 UF +/-10% TC +15%-25% 50V
+
+N
+ow
+
+CDR33 1 KPF +/-1% 30 PPM 100V
+
+CDR33 22 KPF +/-10% TC +15%-25% 100V
+
+CWR29 22 UF 5% 25V SNPB-CASEG
+CWR29 4.7 UF 5% 50V SNPB-CASEH
+
+DSUBN-25S-PCB-90L5
+
+DSUBN-9P-PCB-90L5
+
+1N4100-SMD
+
+1N4103-SMD
+
+1N4569-SMD
+
+1N5806-SMD
+1N6642-SMD
+
+FM12A-5A-135V-RADIAL
+
+117-TO39
+
+124-SOP14
+
+139-CFP14
+
+4013B-CFP14
+
+585-DIP14
+
+=} =—/ |=] Po} Gd!) || PN} BR] BR) |) ||] |=] |] |] PO] dO] BR] Sa
+
+RM0505 1 KOHM 1% 100 PPM 1/8W
+
+RM0505 10 KOHM 1% 100 PPM 1/8W
+
+—
+—
+
+RM0505 100 KOHM 1% 100 PPM 1/8W
+
+RM0505 20 KOHM 1% 100 PPM 1/8W
+
+RMO0505 6.81 KOHM 1% 100 PPM 1/8W
+
+RMO0505 9.09 KOHM 1% 100 PPM 1/8W
+
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 1.43 KOHM 1% 100 PPM 1/4W
+
+RM1206 11.2 KOHM 1% 100 PPM 1/4W
+
+RM1206 18.2 KOHM 0.1% 100 PPM 1/4W
+
+RM1206 200 KOHM 1% 100 PPM 1/4W
+
+RM1206 22.1 KOHM 1% 100 PPM 1/4W
+
+RM1206 221 KOHM 0.1% 100 PPM 1/4W
+
+RM1206 4.75 KOHM 1% 100 PPM 1/4W
+RM1206 5.11 KOHM 1% 100 PPM 1/4W
+
+mM} a] 3) A] ow) A} oa) a] oo} a] no) oa] ao
+
+
+
+--- Page 50 ---
+RM1206 732 OHM 1% 100 PPM 1/4W 1
+
+RM1206 8.25 KOHM 1% 100 PPM 1/4W 1
+
+RM1206 82.5 KOHM 1% 100 PPM 1/4W 1
+
+RM1206 9.09 KOHM 0.1% 100 PPM 1/4W 2
+
+RM1206 9.09 KOHM 1% 100 PPM 1/4W 1
+
+RWR80N 200 OHM 1% 2W 4
+
+RWR80N 56.2 OHM 1% 2W 6
+
+2N3700-SMD 1
+
+2N7261-TO39 2
+
+2N7389-TO39 2
+
+52315 2
+
+Table 1.26: Component List — Battery current Sensor
+
+13.10. NAME OF THE DESIGN: LCS
+
+S.N Parameters Remarks
+
+fe)
+
+1 Name of Design LCS
+
+2 Brief The load current sensor (LCS) will be a non-contact
+
+Description/functionalit magnetic based current sensor. Load current
+y of module passing through the bus bar is measured and
+
+various ranges of output values are generated. Also
+houses circuit required for battery dumping.
+
+2a Block diagram
+
+3 POWER LIVE
+RETURN
+
+DUMP CARD
+Fig: 1.11: Block diagram: LCS and Dump card
+
+2b Powering scheme Powered with +/-14V from dom.reg
+
+
+
+--- Page 51 ---
+2c Grounding scheme DSPG
+2d Power handling and <200mA &<200mW
+
+dissipation
+2e No of modules 2
+2f Stacking of Part of core power packagebus bar module
+modules/stacking
+diagram
+29g Interface Details 0 to 5V interface to core power FPGA
+2h Input/ output Input: 0 to 250A
+Information Output: 4 ranges with 0 to 5V
+3 Component List Summary of active & passive elements (
+
+type/style/Qty): mentioned below
+
+Table 1.27: Design details — Load current Sensor
+
+Details for SI. No. 3 above: COMPONENT LIST (FOR ONE MODULE)
+
+PART NO QTY
+CDR31 1 KPF +/-10% TC +15%-25% 100V 1
+CDR31 10 KPF +/-10% TC +15%-25% 50V 1
+CDR33 0.1 UF +/-10% TC +15%-25% SOV 23
+
+CDR33 1 KPF +/-1% 30 PPM 100V
+CWR29 22 UF 5% 25V SNPB-CASEG
+DSUBN-15S-PCB-90L5
+DSUBN-25P-PCB-90L5
+
+1N4569-SMD
+
+1N4624-SMD
+
+1N4626-SMD
+
+1N5806-SMD
+
+1N6642-SMD
+FM12A-5A-135V-RADIAL
+
+117-TO39
+
+124-SOP14
+
+139-CFP14
+
+585-DIP14
+
+RM0505 10 KOHM 1% 100 PPM 1/8W
+RM0505 11 KOHM 1% 100 PPM 1/8W
+RM0505 121 KOHM 1% 100 PPM 1/8W
+RM0505 20 KOHM 1% 100 PPM 1/8W
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 1.43 KOHM 1% 100 PPM 1/4W
+RM1206 1.5 KOHM 1% 100 PPM 1/4W
+
+= = © = |] |= YO |= |= YH | NM NM N | BR | | | NM WO
+
+RM1206 10 KOHM 1% 100 PPM 1/4W 10
+RM1206 11.2 KOHM 1% 100 PPM 1/4W 1
+RM1206 18.2 KOHM 0.1% 100 PPM 1/4W 4
+
+
+--- Page 52 ---
+RM1206 22.1 KOHM 1% 100 PPM 1/4W 6
+RM1206 24.3 KOHM 1% 100 PPM 1/4W 4
+RM1206 243 KOHM 0.1% 100 PPM 1/4W 4
+RM1206 6.81 KOHM 1% 100 PPM 1/4W 3
+RM1206 64.9 KOHM 1% 100 PPM 1/4W 8
+RM1206 8.25 KOHM 1% 100 PPM 1/4W 2
+RWR8ON 221 OHM 1% 2W 7
+RWR8ON 43.2 OHM 1% 2W 4
+2N3501-SMD 4
+2N3700-SMD 1
+2N5666-TO5 2
+2N7389-TO39 1
+2N7549-TO254 4
+Table 1.28: Components List — Load current Sensor
+13.11. NAME OF THE DESIGN: BCR
+S.No Parameters Remarks
+1 Name of Design BCR
+2 Brief Description/functionality of Battery Charge Regulator:
+module Mentioned below
+2a Block diagram Attached
+2b Powering scheme Attached
+2c Grounding scheme Attached
+2d Power handling and dissipation 1000W / 40W
+2e No of modules 3
+2f Stacking of modules/stacking --
+diagram
+29g Interface Details Interface with FPGA
+2h Input/ output Information
+
+Bus input and battery output
+3 Component List Mentioned below
+
+Table 1.29: Design details — Battery Charge regulator
+Details for SI. No. 2 . DESCRIPTION OF THE HARDWARE:
+
+The battery charge regulator (BCR) is designed to charge Li-lon battery directly from
+100V BUS. BCR, which is essentially a non-isolated buck (step down) dc-dc
+converter, is designed to charge a lower voltage battery from a higher voltage bus. It
+is capable of charging battery with CC-CV as shown in Figure 2. It can charge Li-lon
+battery with regulated constant current until End of Charge (EOC) voltage is
+reached. These current and EOC voltage set points can be selected using 16-bit
+tele-command to 256 different levels each. It can be switched ON/OFF by tele-
+
+47
+
+
+--- Page 53 ---
+command and has in-built over-current protection and FPGA interface for over-
+voltage protection.
+
+Details for SI. No.2:BLOCK DIAGRAM
+
+FUSE ann. Switch . Ae, Guten. \j__ FUSE
+| fy Lt“
+y | or
+BUS C) to Cor
+_ Cn D —_
+a _Do™ ao? a ie + +
+“ BATTERIES
+
+Fig. 1.12 Block diagram BCR
+
+| DOM REG /DC-DC
+
+| + --
+
+Chassis/SGRP
+
+<«--- Live <« RET
+
+Fig. 1.13 BCR Grounding Scheme:
+
+Details for SI. No. 3 above: Components list:
+
+TYPE PART NO. QTY
+CAP CDR31 10 PF +/-1% 30 PPM 100V 2
+CAP CDR31 220 PF +/-1% 30 PPM 100V 1
+CAP CDR32 330 PF +/-1% 30 PPM 100V 4
+CAP CDR32 4.7 KPF +/-10% TC +15%-25% 100V 1
+CAP CDR32 5.6 KPF +/-10% TC +15%-25% 100V 1
+CAP CDR32 6.8 KPF +/-10% TC +15%-25% 100V 1
+CAP CDR33 0.1 UF +/-10% TC +15%-25% SOV 45
+CAP CDR33 1 KPF +/-5% 30 PPM 100V 1
+CAP CDR33 22 KPF +/-10% TC +15%-25% 100V 1
+CAP CDR33BXU 0.1 UF +/-10% TC+15%-25% 100V 2
+CAP CDR35 0.22 UF +/-10% TC +15%-25% 50V 2
+
+48
+
+
+--- Page 54 ---
+CAP
+CAP
+CAP
+CAP
+CAP
+CAP
+CON
+COR
+COR
+DIO
+DIO
+DIO
+DIO
+DIO
+DIO
+FUS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+ICS
+REL
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+
+CDR35 0.47 UF +/-10% TC +15%-25% 50V
+
+CLR79 86 UF 10% 100V
+
+CWR29 10 UF 10% 35V SNPB-CASEH
+CWR29 10 UF 5% 35V SNPB-CASEH
+MLCC1206 47 KPF 10% 200V
+
+MLCC2220 2.2 UF +/-10% TC +15%-15% 100V
+
+DSUB-COMBO-POWER-5W5M-90
+58349-A2
+
+YP-40907-TC
+
+1N4569-SMD
+
+1N5806-SMD
+
+1N5811-SMD
+
+1N5822-SMD
+
+1N6642-SMD
+
+35CGQ150-TO254
+FM12A-15A-135V-RADIAL
+
+07-TO99
+
+124-SOP14
+
+139-CFP14
+
+1825-CFP16
+
+40106B-CFP14
+
+4071B-CFP14
+
+4094B-CFP16
+
+4424-MBCFP16
+
+565-CFP24
+
+8212-CFP10
+GP250-720-E00-26V-L-CAN2
+CS303145 0.005 OHM 0.5% 25 PPM 3W
+RM0505 1 KOHM 1% 100 PPM 1/8W
+RMO0505 1.21 KOHM 1% 100 PPM 1/8W
+RM0505 10 KOHM 1% 100 PPM 1/8W
+RM0505 10 KOHM 5% 100 PPM 1/20W
+RM0505 100 KOHM 1% 100 PPM 1/8W
+RMO0505 18.2 KOHM 1% 100 PPM 1/20W
+RM0505 2.55 KOHM 1% 100 PPM 1/20W
+RM0505 221 OHM 1% 100 PPM 1/8W
+RM0505 274 OHM 1% 100 PPM 1/8W
+RM0505 3.92 KOHM 1% 100 PPM 1/8W
+RM0505 33.2 KOHM 1% 100 PPM 1/8W
+
+yo oO wo => >= fk => =| DD @®
+
+NO =
+a © +~ ©
+
+-=- NN A> NY NY A> NY A]F> A] WWD DW
+
+—_— —_—
+SN % += ®
+
+NO MO NM NY NY HL OE
+
+49
+
+
+--- Page 55 ---
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+RES
+TRA
+TRA
+TRA
+
+RM0505 4.32 KOHM 1% 100 PPM 1/20W
+RMO0505 4.75 KOHM 1% 100 PPM 1/8W
+RM0505 750 KOHM 1% 100 PPM 1/20W
+RM0505 9.31 KOHM 1% 100 PPM 1/8W
+RM1206 1 KOHM 1% 100 PPM 1/4W
+RM1206 10 KOHM 1% 100 PPM 1/4W
+RM1206 10 OHM 1% 100 PPM 1/4W
+RM1206 100 KOHM 1% 100 PPM 1/4W
+RM1206 121 KOHM 1% 100 PPM 1/4W
+RM1206 121 OHM 1% 100 PPM 1/4W
+RM1206 13.3 KOHM 1% 100 PPM 1/4W
+RM1206 15 KOHM 1% 100 PPM 1/4W
+RM1206 150 KOHM 1% 100 PPM 1/4W
+RM1206 2 KOHM 1% 100 PPM 1/4W
+RM1206 20 KOHM 1% 100 PPM 1/4W
+RM1206 3.32 KOHM 1% 100 PPM 1/4W
+RM1206 3.92 KOHM 1% 100 PPM 1/4W
+RM1206 4.75 KOHM 1% 100 PPM 1/4W
+RM1206 4.99 KOHM 1% 100 PPM 1/4W
+RM1206 422 OHM 1% 100 PPM 1/4W
+RM1206 6.81 KOHM 1% 100 PPM 1/4W
+RM1206 60.4 KOHM 1% 100 PPM 1/4W
+RM1206 604 OHM 1% 100 PPM 1/4W
+RM1206 7.5 KOHM 1% 100 PPM 1/4W
+RM1206 75 KOHM 0.1% 100 PPM 1/4W
+RNRSSE 10 KOHM 0.1% 1/10W
+RNRSSE 14 KOHM 0.1% 1/10W
+RNRSSE 2 KOHM 0.1% 1/10W
+
+RNRS5SE 34.8 KOHM 0.1% 1/10W
+RNR55e 42.2 kohm 0.1% 1/10w
+RNRS5SE 6.04 KOHM 0.1% 1/10W
+RNRSSE 75 KOHM 0.1% 1/10W
+RWR8ON 100 OHM 1% 2W
+
+RWR8ON 150 OHM 1% 2W
+
+RWR8ON 221 OHM 1% 2W
+
+RWRS8ON 30.1 OHM 1% 2W
+2N2905-TO39
+
+2N2907-SMD
+
+2N3637-SMD
+
+yo =| Oo —> —
+
+Nias a Ree a Bee oR BR BeBe AY ARDY A DAN D OB
+
+=
+foe)
+
+oOo B® BB YD
+
+50
+
+
+--- Page 56 ---
+TRA 2N3700-SMD 5
+TRA 2N5666-TO5 2
+TRA NEW-BUY25CS45B-TO254 4
+TRA NEW- IRHMS9A7264 (ALTERNATE ON/OFF NMOS) 2
+TRA NEW-597260-TO254 4
+FUS NEW-FM13-1/4A SMD 2
+CAP NEW-PM-948 /170V/8.2 UF 12
+CON NEW-44PIN-MOTHERBOARD CONN 1
+TRA 2N7269-TO254 ( ALTERNATE SWITCHER MOSFET) 4
+
+Table 1.30: Component List — Battery Charge regulator
+13.12. NAME OF THE DESIGN: ICM
+
+Name of Design
+
+Brief
+Description/functionality of
+module
+
+ICM
+
+Individual Cell Monitoring (ICM) card processes the
+cell voltage inputs from each battery cell and converts
+into analog voltage TMs that will be used for cell
+voltage monitoring, Under voltage protection logic
+and Over Charge protection logics. Battery voltage
+monitoring circuit processes battery voltage to analog
+TM output which will be used for charge/discharge
+control of onboard battery. Apart from these two
+functionalities ICM card also has thermistor interfaces
+from battery, monitoring resistors for ground
+monitoring and fused battery sense lines for other
+
+bus control modules.
+
+51
+
+
+--- Page 57 ---
+2a _—_ Block diagram may -taV
+
+Battery Voltage to GC I/P. HAWN, Battery Voltage to GC O/P
+
+Battery thermistor I/P. Battery thermistor O/P
+
+Battery Sense +ve I/P ON Battery Sense +ve O/P
+3
+— cei10
+
+AMUX 2 Muxed Cell TMs
+
+Address from FPGA card
+
+~BVM O/P RTN
+
+a
+1
+
+a
+BVM O/P Live
+
+> Battery Sense -ve O/P
+
+Fig. 1.14 Block Diagram: ICM
+
+2b Powering scheme Powered by bias DC-DC(+/- 12V)
+
+2c Grounding scheme DSPG
+
+2d _ ~=Power handling and <500mW dissipation
+dissipation
+
+2e No of modules 3
+
+2f = Stacking of Part of Battery Module
+modules/stacking diagram
+
+2g Interface Details +/-10V interface to core power FPGA
+
+2h —_Input/ output Information Inputs:
+Cell voltage inputs, battery voltage sense input to
+BVM, GC and other power modules, battery
+thermistor inputs.
+Cell Input range: 2.5V to 4.3V
+Battery voltage range is: 57.5V to 98.9V
+Outputs:
+Telemetry outputs of +/- 10V to FPGA card.
+
+3 Component List Summary of active & passive elements
+(type/style/Qty): Mentioned below
+
+Table 1.31: Design details - ICM
+
+Details for SI. No. 3 above: Component list:
+
+PART No. QTY.
+CDRO1 470 PF +/-10% TC +15%-25% 100V 2
+CDR33 0.1 UF +/-10% TC +15%-25% 50V 38
+
+DSUBH-26P-PCB-90L5
+DSUBN-37P-PCB-90L5
+1N967-DO35
+1N4625-D0213AA
+
+ND mM = NY
+
+52
+
+
+--- Page 58 ---
+124-SOP14 2
+43-CFP10 2
+71840-CFP28 2
+INA1H94-SP-CFP8 20
+RM1206 1 KOHM 1% 100 PPM 1/4W 6
+RM1206 10 KOHM 1% 100 PPM 1/4W 2
+RM1206 100 KOHM 1% 100 PPM 1/4W 8
+RM1206 12.1 KOHM 1% 100 PPM 1/4W 2
+RM1206 150 KOHM 0.1% 100 PPM 1/4W 8
+RM1206 2.21 KOHM 1% 100 PPM 1/4W 8
+RM1206 27.4 KOHM 0.1% 100 PPM 1/4W 4
+RM1206 5.11 KOHM 1% 100 PPM 1/4W 4
+RM0505 100 OHM 1% 100 PPM 1/8W 9
+FM13 0.5A -SMD 4
+FM13 125mA-SMD 4
+
+Table 1.32: Component List - ICM
+
+13.13. NAME OF THE DESIGN: SELF BIAS DC-DC CONVERTER —
+BUILT TO SPEC: PART OF BATTERY MODULE
+
+S.No Parameters Remarks
+
+1 Name of Design Self bias DC-DC converter (as part of Battery
+
+module)
+
+2 Brief Description/ Three numbers of ICM _ card (individual cell
+functionality of monitoring) and two numbers of BCS card (Battery
+module current sensors) are located along with battery.
+
+This DCDC card powers circuits in ICM and BCS is
+also housed as part of Battery module.
+
+Main and redundant DC-DC circuits needs to be part
+
+of single PCB(Discrete) or Two numbers of HMC can
+
+be planned
+
+2a Block diagram —
+
+[LL utput Live
+a ae Digital TM bit
+hy ae BIAS DC-DC converter > output rtn 1,2
+Output Live2
+Fig. 1.15 Block diagram of self bias DC-DC converter
+2b Powering scheme Powered with 100V Bus
+
+2c Grounding scheme DC-DC converter return to be provided along with
+
+Live lines for each output of converter
+2d Power handling and 5W and<1.5W
+
+dissipation
+
+53
+
+
+--- Page 59 ---
+2e
+2f
+
+2g
+
+2h
+
+No of modules
+Stacking of
+modules/stacking
+diagram
+Interface Details
+
+Input/ output
+Information
+
+Drawing/Dimensions
+
+Dimension , wt,
+volume
+
+Load profile
+
+Protections
+
+EMI/EMC
+Compliance
+
+1
+Bias converter is part of battery module and stacking
+diagram of the same will be provided later
+
+DC- DC PCB / HMC to have interface for
+1) Bus input (Live & Return),
+2) Output lines to BCS/ICM circuit (L&R)
+3) Output voltage TM (Digital TM)
+4) Signal return line
+5) Input and output need to be implemented
+through standard connector interface. Two
+numbers of standard connector one for main &
+one connector for redundant DC-DC without
+any interconnections between them.
+Input: Bus
+Output voltages/currents:
+O/P1 (+14V/0.250A) ; O/P2 (-14V/ 0.100 A)
+Live lines: 2 lines each for +14V and -14V
+Common return lines :3 numbers are required
+Built to spec for Bias DC-DC — SMT or HMC type as
+per our mechanical drawing/ dimensions
+120mm * 110mm*2.2 mm (SMT option -Two DC-DC
+circuits in single PCB)#
+120 mm* 110 mm* 15 mm (HMC option-Two
+converters to be accommodated in single PCB
+footprint size)#
+Maximum Output Power per DC-DC converter = 5W
+Output voltages/currents:
+O/P1 (+14V/0.250A)
+O/P2 (-14V/ 0.100 A)
+1) Over load/short circuit protection feature
+@>120% of full rated power (5W) DC-DC to be in
+Hic-up mode
+2) Inrush current limiting feature
+
+MIL-461G/URSC Standard
+
+Table No. 1.33 Design details of self bias DC-DC converter
+
+Note: PCB and mechanical dimension shall meet the dimension mentioned above,
+since these PCBs shall be mounted in the Bat. Module.
+
+54
+
+
+--- Page 60 ---
+13.14. NAME OF THE DESIGN : DROVP
+
+S.No Parameters
+
+1
+2
+
+2a
+
+2b
+2c
+
+2d
+
+2e
+2f
+
+2g
+
+Name of Design
+Brief
+
+Description/functionality
+
+of module
+
+Block diagram
+
+Powering scheme
+
+Grounding scheme
+
+Power handling and
+dissipation
+No of modules
+
+Stacking of
+modules/stacking
+diagram
+
+Interface Details
+
+Remarks
+Domreg Over Voltage Protection (DROVP) PCB
+
+DROVP PCB is having over voltage protection
+feature for all five outputs of Domreg. In case of
+overvoltage in one Domestic regulator (Main or
+redundant), the output supply of that particular
+chain will turn OFF and disable the OVP protection
+of other chain.
+This PCB is having following features:
+
+1. Current telemetry circuit (for both main &
+
+redundant converter)
+2. Analog voltage telemetry of output voltages.
+3. OVP status of each Domestic regulator.
+
+R/B Live RELIVE > Fuse (M)
+oypi_,
+. opp: ov? .
+Main min >| _.. [Lops > O/Ps Main after
+2 *| OVP circuit [Tops h
+H 11 O/P6_, OVP swite
+Chain — DC-DC (M) foes (M O/P5
+/P5_ > OVP Status
+> VIM
+RB Rtn »| Current
+R/B Return /¢ telemetry * CIM
+(M
+R/B Live FETE * Fuse (R)
+o/Pt
+o/Pi_|,| O/P2 K
+aEacRaat of TS! ove circuit LLOPa» O/Ps Redundant
+eaundan DC-DC (R) o/P3_|, O/Pa_, after OVP switch
+Chain op) | =
+>| > OVP Status
+> VIM
+RB Rtn. »| Current
+R/B Return |¢ telemetry * CIM
+(R)
+
+Fig 1.16 Block dia. DROVP
+Powered with 100V Bus for current telemetry circuit
+
+e Current TM should be wrt chassis.
+e Each converter outputs return to be provided
+along with Live lines.
+Maximum Power Dissipation =5.5W
+
+1
+
+DROVP PCB will be mounted in DC-DC tray of
+Core Power Module and stacking diagram will be
+provided later.
+DROVP PCB has to be interfaced for
+e Raw Bus (Live & return), Raw Bus Live will
+go to DC-DC converter through Fuse. Raw
+Bus return from DC-DC converter will go
+
+55
+
+
+--- Page 61 ---
+through current sense resistor present in
+DROVP PCB.
+
+Output lines to users (Live & Return)
+
+Output Voltage TM(Analog TM)
+
+Output OVP status (Digital TM)
+
+Raw Bus Current Telemetry (Analog TM)
+Input and output interface is through
+standard connector interface (37 pin DSUB
+ITT connector). Two numbers of standard
+connectors one for main é&another for
+redundant DC-DC_ chain’ without any
+interconnections between them is used.
+
+2h Input/ output Input: Bus Live & Return
+Information Output: All five outputs from converter after OVP
+switch, Voltage telemetry, Current telemetry, OVP
+status
+3 Component list Mentioned below
+
+4. EMI/EMC Compliance MIL-461G/URSC Standard
+
+Table: 1.34 Design details - DROVP
+COMPONENTS LIST:
+
+PART No. QTY.
+139-CFP14 10
+136-2.5V-TO46 10
+124-SOP14 2
+1N6327US-SMD 10
+1N4624-SMD 8
+1N4106-SMD 2
+2N7550-TO254 6
+2N2907-SMD 2
+2N7470-TO254 2
+2N7389-TO39 2
+2N5666-TO5 2
+RM1206 9.09 KOHM 1% 100 PPM 1/4W 42
+RM0505 51.1 KOHM 1% 100 PPM 1/8W 12
+NO CONNECTION-RM1206 16
+RM1206 1 KOHM 1% 100 PPM 1/4W 14
+RM1206 57.6 KOHM 1% 100 PPM 1/4W 4
+RM0505 41.2 KOHM 1% 100 PPM 1/8W 12
+RM1206 5.62 KOHM 1% 100 PPM 1/4W 6
+RM1206 20 KOHM 1% 100 PPM 1/4W 4
+RM1206 33.2 KOHM 1% 100 PPM 1/4W 6
+RM1206 47.5 KOHM 1% 100 PPM 1/4W 8
+RM1206 2 KOHM 1% 100 PPM 1/4W 2
+
+56
+
+
+--- Page 62 ---
+RM1206 52.3 KOHM 1% 100 PPM 1/4W
+RM1206 84.5 KOHM 1% 100 PPM 1/4W
+RM1206 38.3 KOHM 1% 100 PPM 1/4W
+RM1206 61.9 KOHM 1% 100 PPM 1/4W
+RM0505 18.2 KOHM 1% 100 PPM 1/8W
+RM1206 17.4 KOHM 1% 100 PPM 1/4W
+RM1206 221 OHM 1% 100 PPM 1/4W
+RM1206 100 OHM 1% 100 PPM 1/4W
+RM1206 110 KOHM 1% 100 PPM 1/4W
+RM1206 392 KOHM 1% 100 PPM 1/4W
+RM1206 7.5 KOHM 1% 100 PPM 1/4W
+RWR80N 0.1 OHM 1% 2W
+
+RM1206 30.1 KOHM 1% 100 PPM 1/4W
+
+CDR33 0.1 UF +/-10% TC +15%-25% SOV
+CDR31 1 KPF +/-10% TC +15%-25% 100V
+CDR31 10 KPF +/-10% TC +15%-25% 50V
+
+NO CONNECTION-CDR33
+NEW-FM13-SMD
+DSUBN-37S-CR
+
+1.35 Component list - DROVP
+
+13.15 Motherboard configuration:
+
+= 3 N =
+NFR DMO D®OPNANNNNYHONAPNN
+
+The motherboard is used to interconnect the power and signal lines between the
+Core Power Electronics and Power modules. Parallel to serial converters for digital
+data transmission is to be part of this unit. Any form of interconnection which reduces
+
+the wires/harness can be adopted.
+
+57
+
+
+--- Page 63 ---
+14.0 ANNEXURE
+
+
+--- Page 64 ---
+ANNEXURE-A
+ANALYSIS TO BE PERFORMED
+
+Subject: The analysis to be performed for all the circuits/modules of PCU
+
+ANALYSIS TO BE CONDUCTED STAGE OF S/W & STDs.
+ANALYSIS
+1. Signal integrity (SI) analysis PCB level
+2. Power integrity (Pl) analysis PCB level
+3. EMI-EMC analysis Module and The S/W and standards
+
+overall PCU level to be used for the
+
+lysi ill be shared
+4.PCB and package level thermal Overall PCU iad re * selected
+
+analysis in conduction _and_ evel vendors.
+conduction + radiation modes
+
+5.Mechanical analysis
+
+a. Structural(vibr./Modal analysis) Overall PCU level
+
+b. Thermal analysis
+
+6. Reliability prediction Circuit level and
+overall PCU level
+
+7.Failure Mode Effect and ,
+Criticality Analysis ( FMECA) Circuit level
+
+8. Worst Case Circuit Analysis
+
+( WCCA), Monte-carlo analysis and Gircuit level
+Sensitivity analysis (SA)
+
+9.De-rating analysis (DA) Circuit level
+
+10.Fault Tree Analysis ( FTA) Package level
+
+59
+
+
+--- Page 65 ---
+ANNEXURE- B
+
+DEVELOPMENT OF AUTOMATED TEST SYSTEM — FOR CARD &
+
+PKG LEVEL TESTS OF IMPP FOR 100V BUS
+
+INSTRUCTIONS:
+
+1
+
+10
+
+12
+
+13
+
+14
+
+Vendor shall develop Automated test system for IMPP for testing different types
+of modules as per the specification provided by URSC
+The Automated Test System must be rack mounted type with a width of 19 inch
+
+All cabling from modules to terminal boxes and mounting of the connector
+boxes is the responsibility of the vendor realising ATE.
+
+From Terminal Box to back plate connector termination is also the responsibility
+of the vendor. The back plate connector shall be 50 pin crimpable type.
+All PXle modules, chassis and controller must be from single OEM
+
+The vender should install all peripheral/ accessories (Like Display, Key
+board, Mouse, Printer etc) associated with PX] unit.
+
+The overall system software must be compatible with the existing software
+present with URSC, Bangalore
+
+It is the vendors’ responsibility to ensure compatibility with the existing test
+system with URSC and test system will be accepted only after testing.
+
+The system must have ability to scale to a Real Time OS based ATE in future,
+which can also be programmed using Lab-VIEW.
+
+The system must have ability to augment with FPGA based PXI/PXle modules
+for future enhancement and there must be programming support for these in
+Lab-VIEW.
+
+Vendor should develop data logging feature using one channel of 1553 card by
+configuring Monitor terminal
+
+The testing and validation of the test system by URSC is_ the responsibility of
+the vendor.
+
+The vendor should have at least one software engineer (Must have Lab-VIEW
+CLD or CLAD certificate) to develop new software requirements, reports and
+Lab-VIEW code cleaning.
+
+Technical Specification of proposed “PXI Based Test System”
+
+S.No Description Hardware Qty/Set
+
+1
+
+2
+3
+
+PXle-Controller , 2.8 GHz Quad Core Controller, Win 10 64-bit 1
+(Multilanguage) or higher
+
+16GB RAM or higher (best possible) 1
+MIL-STD-1553 - 2 Channel (Single Function) PXI MIL-STD-1553 1
+Interface Modules provide bus controller (BC), remote terminal (RT)
+
+LFH Connector to Four MIL-STD-1553 Twinax and One D-Sub, 3' 1
+
+60
+
+
+--- Page 66 ---
+“
+
+10
+
+11
+
+12
+13
+
+14
+15
+
+16
+
+17
+
+18
+19
+
+20
+21
+
+22
+
+23
+24
+
+25
+
+PXI- Industrial, 24 DI, 24 DO, Ch-Ch Isolated DIO; 48-Channel, 24
+Sink/Source Inputs, 24 Sink/Source Outputs, Channel-Channel
+Isolated, With programmable power-up states, .
+
+SCB-100A Noise Rejecting, Shielded I/O Connector Block
+
+Cable assembly, Type SH100-100-FLEX, 2 m
+
+PXle High-Performance 7 1/2 Digit DMM and 1000 V Digitizer
+Performs voltage, current, resistance, temperature, inductance,
+capacitance, and frequency/period measurements, as well as diode
+tests, in PXI systems.
+
+PXle 2 Channel Power Supply, 60V, 1A 2-Channel, 60 V, 1 A PXI
+Programmable Power Supply—The PXle is a programmable DC
+power supply with isolated outputs. |
+
+PXI, 2000V Isolated RS422/485, 4 Port Serial Interface 4-Port,
+Isolated, RS485/RS422 PXI Serial Interface Module—The PXI is a
+high-performance industrial interface for high-speed, port-to-port
+isolated communication with RS485 and RS422 devices.
+
+PXI- 64-Channel 300V CAT | Multiplexer 32-Channel, 300 V,
+2-Wire PXI Multiplexer Switch Module
+
+TB-2627 Screw Terminal Block
+
+PXI 196 ch Multiplexer 196-Channel, 1-Wire PXI Multiplexer Switch
+Module
+
+LFH200 to 4x50-Pin DSub Switch Cable (CH-CH Twisted),1m
+
+PXle 32 channel +- 10V analog input module. 24 bit resolution 5
+Ks/s/Ch.
+
+PXle 8 channel upto 30V analog input module. 16 bit resolution 250
+Ks/s/Ch.
+
+PXle (100MHz, 1GS/s)- Oscilloscope Module 100MHz, 1GS/s
+
+PXle, 18-Slot 3U PXI Express Chassis with Timing and Sync:
+Option The PXle features an all-hybrid backplane to meet a wide
+range of high-performance test and measurement application
+needs.
+
+Power Cord, 250V, 10A, India
+
+X13 GPIB Cable, MicroD25 to Shielded cable/Standard connector,
+2M
+
+18-Slot Chassis Front Rack Mount Kit, Extended Recess
+
+Windows 10 loT Enterprise USB Recovery Media for PXI,
+Multilanguage
+
+Standard service program for PXI systems
+
+Aluminium Rack 19"
+
+Foldable Monitor 17" TFT LCD Console compatible with 19" Rack
+or Higher
+
+Extra monitor
+
+Wireless Keyboard and Mouse
+
+61
+
+
+--- Page 67 ---
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+
+Dsub Connector
+
+Dsub Connector PIN
+
+Isolation Transformer
+
+Harness
+
+1553- Loom
+
+2 port stub
+
+Panel Mount Connectors Crimp type for 1553
+DMM Connector
+
+Consumables
+
+Electrical Accessories
+
+Stickering tag
+
+cables - 700 ch
+
+ICM Simulator — Simulation of 24 cells
+
+APC Smart-UPS RC 3000VA 230V Harsh Environment
+
+72
+
+3500
+
+—
+
+= =|] |= |= |= = pO BR YO CO =
+
+62
+
+
+--- Page 68 ---
+ANNEXURE- C
+
+Applicable documents /Standards
+
+The following documents shall serve as reference documents/standards for
+the contract.
+
+Document Identification Document title
+
+ISRO-PAX-300 Workmanship Standards for the Fabrication of Electronics
+Packages.
+
+ISRO-PAS-207 Storage, Handling and Transportation requirements for
+Electronics hardware.
+
+ISRO-PAS-100 Non-Conformance Control Requirement for ISRO Projects.
+
+ISRO-PAS-201 Failure Reporting, Analysis and Corrective Action system
+
+ISRO-PAS-203 Procedures and Review Requirements for Major Ground
+Tests and Ground Test Facilities
+
+MIL-HDBK-263B ESD Control Hand Book
+
+ISRO-ISAC-QAG-MTA-GL-01 Space Electronics Production Assurance Guidelines
+
+RQEG-PAD-EPAS-DC4 Work Instructions Document for Electronic Assembly
+Fabrication
+
+URSC-CMMA-DOC-COMPMAN/01 EEE Component Management document
+
+ISRO-PAX-304 Test specifications and requirements for multilayer printed
+circuit boards.
+
+ISRO-PAS-400 Contamination Control and Cleanliness Requirements
+
+ISRO-ITecS-EE-002 Derating Guidelines for EEE parts.
+
+MIL-STD 461C/E/F/G EMI/EMC test standard
+
+MIL-STD-2218 thermal design, analysis and test criteria for airborne
+electronic equipment
+
+MIL-STD-810H/704 Ability of equipment to withstand environmental conditions
+over its lifetime
+
+MIL-HDBK-217 version 2 Reliability prediction of electronic eqipment
+
+MIL-STD-1629A Procedure to perform failure mode.
+
+MIL-STD-882/IEC 61508 System Safety guidelines
+
+MIL-STD-975M and 1547 Baseline for Standardization of EEE parts
+
+SAC/SRA/GEN/GDL/CKT-SCH/1.0 Schematic Design guidelines for generation of PCB
+
+63
+
+
+--- Page 69 ---
+ANNEXURE- D
+LIST OF SPECIAL TEST EQUIPMENTS NEEDED*
+
+SL. EQPT NAME RATINGS QUA REMARKS/MAKE
+
+NO NTITY
+Lambda
+
+01 Battery 120V,10KW = 02
+
+simulator/Bus
+simulator
+
+02 ~= Solar array 130V, 20A 10 Digitronics
+
+simulator**
+
+03 Testsystem  — ----- 01 Refer Annexure 3, PXI based
+NI make, with Lab view S/W
+front end
+
+04 Electronic load 120V, 10KW ss O01 l-Tech
+
+05 Electronic load 120V, 5KW 01 I-Tech
+
+*Note: Shall be procured by the vendor and can be billed to URSC
+** 130V,5A units shall be procured, which can be paralleled to make 20A current.
+
+64
+

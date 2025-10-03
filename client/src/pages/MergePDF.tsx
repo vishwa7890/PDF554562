@@ -9,7 +9,7 @@ import { useToast } from '@/hooks/use-toast';
 import FileUploader from '@/components/FileUploader';
 import DownloadCard from '@/components/DownloadCard';
 import Loader from '@/components/Loader';
-import api from '@/utils/api';
+import api from '@/lib/api';
 
 export default function MergePDF() {
   const [files, setFiles] = useState<File[]>([]);

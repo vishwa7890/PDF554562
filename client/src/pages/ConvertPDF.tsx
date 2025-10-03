@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { useToast } from '@/hooks/use-toast';
-import api from '@/utils/api';
+import api from '@/lib/api';
 
 export default function ConvertPDF() {
   const [files, setFiles] = useState<File[]>([]);

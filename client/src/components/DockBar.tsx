@@ -12,7 +12,7 @@ import {
   User,
   History
 } from 'lucide-react';
-import { cn } from '@/utils/utils';
+import { cn } from '@/lib/utils';
 
 const dockItems = [
   { path: '/', label: 'Dashboard', icon: Home, color: 'text-blue-500' },

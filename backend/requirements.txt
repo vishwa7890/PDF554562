@@ -8,7 +8,7 @@ python-jose[cryptography]
 passlib[bcrypt]
 bcrypt
 python-decouple
-pydantic
+pydantic[email]
 pydantic-settings
 pytesseract
 Pillow
@@ -19,4 +19,5 @@ fastapi-cors
 aiofiles
 redis
 celery
-jwt
+python-jose[cryptography]
+email-validator>=1.3.0

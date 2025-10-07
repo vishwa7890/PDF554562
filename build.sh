@@ -2,12 +2,27 @@
 # Exit on error
 set -e
 
-# Install Python 3.10.12
-pyenv install -s 3.10.12
-pyenv global 3.10.12
+# Print environment information for debugging
+echo "Python version: $(python --version)"
+echo "Pip version: $(pip --version)"
 
-# Install dependencies
-pip install -r requirements.txt
+# Upgrade pip
+pip install --upgrade pip
 
-# Print Python version for debugging
+# Install Python dependencies
+pip install -r backend/requirements.txt
+
+# Install system dependencies for Tesseract and other tools
+apt-get update && apt-get install -y \
+    tesseract-ocr \
+    tesseract-ocr-eng \
+    poppler-utils \
+    ghostscript
+
+# Create necessary directories
+mkdir -p uploads processed
+
+# Print final Python and package versions for debugging
+echo "=== Final Environment ==="
 python --version
+pip list

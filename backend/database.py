@@ -7,7 +7,7 @@ import os
 # Database configuration
 DATABASE_URL = config(
     'DATABASE_URL',
-    default='postgresql://postgres:123@localhost:5432/pdfmaster'
+    default='postgresql://pdfgenie:X5rqyTHeXEkUtYyAzZAUlYUIrHjZAp9h@dpg-d3igqjggjchc73ebks5g-a/pdfgenie'
 )
 
 engine = create_engine(DATABASE_URL)

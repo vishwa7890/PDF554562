@@ -1,67 +1,52 @@
 version: '3.8'
 
 services:
-  # PostgreSQL Database
-  postgres:
-    image: postgres:15
-    container_name: pdfmaster_postgres
+  db:
+    image: postgres:13
     environment:
+      POSTGRES_USER: pdfmaster
+      POSTGRES_PASSWORD: pdfmaster
       POSTGRES_DB: pdfmaster
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
     ports:
       - "5432:5432"
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
-    networks:
-      - pdfmaster_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
-  # Redis for caching and job queue
-  redis:
-    image: redis:7-alpine
-    container_name: pdfmaster_redis
-    ports:
-      - "6379:6379"
-    networks:
-      - pdfmaster_network
-
-  # FastAPI Backend
   backend:
-    build: ./backend
-    container_name: pdfmaster_backend
-    environment:
-      DATABASE_URL: postgresql://postgres:password@postgres:5432/pdfmaster
-      REDIS_URL: redis://redis:6379
-      SECRET_KEY: your-super-secret-key-change-in-production
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
       - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://pdfmaster:pdfmaster@db:5432/pdfmaster
+      - JWT_SECRET=your_jwt_secret_key_here
+      - TESSDATA_PREFIX=/usr/share/tesseract-ocr/4.00/tessdata
     volumes:
-      - ./backend/uploads:/app/uploads
-      - ./backend/processed:/app/processed
+      - ./uploads:/app/uploads
+      - ./processed:/app/processed
     depends_on:
-      - postgres
-      - redis
-    networks:
-      - pdfmaster_network
+      db:
+        condition: service_healthy
 
-  # Frontend (React/Vite)
   frontend:
-    build: 
+    build:
       context: .
-      dockerfile: Dockerfile.frontend
-    container_name: pdfmaster_frontend
+      dockerfile: Dockerfile.dev
     ports:
       - "3000:3000"
+    volumes:
+      - ./client:/app/client
+      - /app/client/node_modules
     environment:
-      VITE_API_URL: http://localhost:8000
+      - VITE_API_URL=http://localhost:8000
     depends_on:
       - backend
-    networks:
-      - pdfmaster_network
 
 volumes:
   postgres_data:
-
-networks:
-  pdfmaster_network:
-    driver: bridge

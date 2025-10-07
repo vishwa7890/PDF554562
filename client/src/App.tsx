@@ -25,42 +25,60 @@ function Router() {
       <Route path="/">
         {() => (
           <ProtectedRoute>
-            <Dashboard />
+            <>
+              <Dashboard />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
       <Route path="/merge">
         {() => (
           <ProtectedRoute>
-            <MergePDF />
+            <>
+              <MergePDF />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
       <Route path="/split">
         {() => (
           <ProtectedRoute>
-            <SplitPDF />
+            <>
+              <SplitPDF />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
       <Route path="/compress">
         {() => (
           <ProtectedRoute>
-            <CompressPDF />
+            <>
+              <CompressPDF />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
       <Route path="/convert">
         {() => (
           <ProtectedRoute>
-            <ConvertPDF />
+            <>
+              <ConvertPDF />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
       <Route path="/ocr">
         {() => (
           <ProtectedRoute>
-            <OCRPage />
+            <>
+              <OCRPage />
+              <DockBar />
+            </>
           </ProtectedRoute>
         )}
       </Route>
@@ -79,7 +97,6 @@ function App() {
             <main className="pb-20">
               <Router />
             </main>
-            <DockBar />
           </div>
           <Toaster />
         </TooltipProvider>

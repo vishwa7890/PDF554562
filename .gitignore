@@ -1,37 +1,3 @@
-# Dependencies
-node_modules/
-.pnp
-.pnp.js
-
-# Testing
-coverage/
-
-# Production
-build/
-dist/
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Debug logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# IDE and Editor
-.idea/
-.vscode/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.DS_Store
-
 # Python
 __pycache__/
 *.py[cod]
@@ -54,49 +20,120 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
-venv/
-env/
-ENV/
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-# Local development
-*.local
-
-# Logs
-logs
-*.log
-
-# Tesseract data (if you're using OCR)
-tessdata/
-
-# VS Code
-.vscode/*
-!.vscode/extensions.json
-!.vscode/settings.json
-
-# System Files
-.DS_Store
-Thumbs.db
-
-# Python cache
-.pytest_cache/
-.mypy_cache/
-
-# Frontend build files
-client/dist/
-client/build/
-client/.next/
-
-# Backend specific
-backend/__pycache__/
-backend/*.pyc
-
-# Local development environment
+# Environment variables
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-# Misc
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Build directories
+/dist
+/build
+/client/dist
+/client/build
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Database
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development
+.venv
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Tesseract training data
+*.traineddata
+
+# Uploads and processed files
+/uploads/
+/processed/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Render
+.render/
+
+# Netlify
+.netlify/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development
+.python-version
+
+# IDE specific files
+.ropeproject
+.project
+.pydevproject
+.settings/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Virtual environment
+venv/
+ENV/
+
+# Frontend specific
 .cache/
-.temp/
+.parcel-cache/
+.next/
+.nuxt/
+.nuxt-
+.nuxt.*
+.nuxt*
+.nuxt
+.nuxt*
+
+# Build output
+out/
+.next/
+.nuxt/
+.nuxt-
+.nuxt.*
+.nuxt*
+.nuxt
+.nuxt*

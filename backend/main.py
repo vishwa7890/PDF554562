@@ -33,18 +33,24 @@ os.makedirs("uploads", exist_ok=True)
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
-    title="PDF Master API",
-    description="A comprehensive PDF processing API with OCR capabilities",
+    title="PDFGenie API",
+    description="A comprehensive PDF processing API with OCR capabilities for PDFGenie application",
     version="1.0.0"
 )
 
 # Mount static files
 app.mount("/processed", StaticFiles(directory="processed"), name="processed")
 
+# Get allowed origins from environment variable or use defaults
+ALLOWED_ORIGINS = os.getenv(
+    'CORS_ORIGINS', 
+    'http://localhost:3000,http://localhost:5173'
+).split(',')
+
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:5173"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -75,16 +81,20 @@ async def root():
 async def health_check():
     return {"status": "healthy", "timestamp": datetime.utcnow()}
 
+# Initialize services
+auth_service = AuthService()
+security = HTTPBearer()
+
 # Authentication endpoints
-@app.post("/api/auth/register", response_model=UserResponse)
+@app.post("/auth/register", response_model=UserResponse)
 async def register(user: UserCreate, db: Session = Depends(get_db)):
     return await auth_service.register_user(user, db)
 
-@app.post("/api/auth/login", response_model=Token)
+@app.post("/auth/login", response_model=Token)
 async def login(user: UserLogin, db: Session = Depends(get_db)):
     return await auth_service.authenticate_user(user, db)
 
-@app.get("/api/auth/me", response_model=UserResponse)
+@app.get("/auth/me", response_model=UserResponse)
 async def get_current_user(
     credentials: HTTPAuthorizationCredentials = Depends(security),
     db: Session = Depends(get_db)
@@ -92,7 +102,7 @@ async def get_current_user(
     return await auth_service.get_current_user(credentials.credentials, db)
 
 # PDF Processing endpoints
-@app.post("/api/pdf/upload", response_model=PDFUploadResponse)
+@app.post("/pdf/upload", response_model=PDFUploadResponse)
 async def upload_pdf(
     file: UploadFile = File(...),
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -130,7 +140,7 @@ async def upload_pdf(
         upload_time=pdf_doc.created_at
     )
 
-@app.post("/api/pdf/merge")
+@app.post("/pdf/merge")
 async def merge_pdfs(
     request: PDFMergeRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -153,7 +163,7 @@ async def merge_pdfs(
         }
     )
 
-@app.post("/api/pdf/split")
+@app.post("/pdf/split")
 async def split_pdf(
     request: PDFSplitRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -186,7 +196,7 @@ async def split_pdf(
         }
     )
 
-@app.post("/api/pdf/compress")
+@app.post("/pdf/compress")
 async def compress_pdf(
     request: PDFCompressRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -210,7 +220,7 @@ async def compress_pdf(
         }
     )
 
-@app.post("/api/pdf/convert")
+@app.post("/pdf/convert")
 async def convert_pdf(
     request: PDFConvertRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -243,7 +253,7 @@ async def convert_pdf(
     )
 
 # OCR endpoints
-@app.post("/api/ocr/extract-text")
+@app.post("/ocr/extract-text")
 async def extract_text_ocr(
     request: OCRRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -252,7 +262,7 @@ async def extract_text_ocr(
     user = await auth_service.get_current_user(credentials.credentials, db)
     return await ocr_service.extract_text_from_pdf(request.file_id, request.language, user.id, db)
 
-@app.post("/api/ocr/searchable-pdf")
+@app.post("/ocr/searchable-pdf")
 async def create_searchable_pdf(
     request: OCRRequest,
     credentials: HTTPAuthorizationCredentials = Depends(security),
@@ -262,7 +272,7 @@ async def create_searchable_pdf(
     return await ocr_service.create_searchable_pdf(request.file_id, request.language, user.id, db)
 
 # User documents
-@app.get("/api/user/documents")
+@app.get("/user/documents")
 async def get_user_documents(
     credentials: HTTPAuthorizationCredentials = Depends(security),
     db: Session = Depends(get_db)

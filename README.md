@@ -1,4 +1,4 @@
-# PDF Master
+# PDFGenie
 
 A comprehensive PDF processing application with advanced OCR capabilities, built with FastAPI backend and React frontend.
 

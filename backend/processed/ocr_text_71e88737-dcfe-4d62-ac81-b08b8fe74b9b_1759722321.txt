@@ -1,0 +1,25 @@
+--- Page 1 ---
+Procedure for ISRO e-Procurement client installation
+
+Download the file “ISRO_EProcClient.zip” to your computer.
+
+Extract the ISRO_EprocClient.zip file to C:\ ISRO_EprocClient.
+
+Double click the exe file “EProcClient_X_X_X.exe’” in folder. The following window
+displays. Keep it open and minimised during bidding or DC enrolment.
+
+o> |S
+
+® || C\EProcClient\EprocClient\EProcClient_1_0_2.exe
+
+Government of India, Department of Space
+Indian Space Research Organisation
+
+le-Procurement Client Application
+Version 1.0.2
+
+4. Alog file “EprocClient.log” will also be created in the same folder
+
+NB: Please note that before DC enrolment or Bidding, double click the exe file
+“EProcClient_X_X_X.exe” in the PC and keep the window minimised.
+

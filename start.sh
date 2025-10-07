@@ -1,6 +1,5 @@
 #!/bin/bash
-
-echo "Starting PDF Master Application..."
+echo "Starting PDFGenie Application..."
 echo
 
 # Check if Docker is available

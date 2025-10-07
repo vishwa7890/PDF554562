@@ -1,0 +1,49 @@
+services:
+  - type: web
+    name: pdfmaster-api
+    env: python
+    build:
+      buildCommand: pip install -r requirements.txt
+      startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0
+      - key: DATABASE_URL
+        fromDatabase:
+          name: pdfmaster-db
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true
+      - key: TESSDATA_PREFIX
+        value: /usr/share/tesseract-ocr/4.00/tessdata
+      - key: CORS_ORIGINS
+        value: "https://your-netlify-site.netlify.app,http://localhost:3000"
+    healthCheckPath: /health
+    repo: https://github.com/VISWA00723/pdftool
+    plan: free
+    numInstances: 1
+
+databases:
+  - name: pdfmaster-db
+    databaseName: pdfmaster
+    user: pdfmaster
+    plan: free
+
+build:
+  envVars:
+    - key: PYTHON_VERSION
+      value: 3.9.0
+    - key: TESSERACT_VERSION
+      value: 4.1.1
+
+  commands:
+    - apt-get update && apt-get install -y \
+        tesseract-ocr \
+        tesseract-ocr-eng \
+        tesseract-ocr-fra \
+        tesseract-ocr-spa \
+        tesseract-ocr-deu \
+        tesseract-ocr-ita \
+        poppler-utils \
+        ghostscript
+    - pip install -r requirements.txt

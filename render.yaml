@@ -1,11 +1,8 @@
 services:
   - type: web
     name: pdfmaster
-    env: python
-    buildCommand: |
-      python3.11 -m pip install --upgrade pip
-      python3.11 -m pip install -r backend/requirements.txt
-    startCommand: python3.11 -m uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    env: docker
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0

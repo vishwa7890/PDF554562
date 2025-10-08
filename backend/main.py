@@ -44,7 +44,7 @@ app.mount("/processed", StaticFiles(directory="processed"), name="processed")
 # Get allowed origins from environment variable or use defaults
 ALLOWED_ORIGINS = os.getenv(
     'CORS_ORIGINS', 
-    'http://localhost:3000,http://localhost:5173'
+    'http://localhost:3000,http://localhost:5173,https://pdfgenie.netlify.app,https://pdfgenie.mindapt.in'
 ).split(',')
 
 # CORS middleware

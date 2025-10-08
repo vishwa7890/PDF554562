@@ -1,11 +1,14 @@
 services:
   - type: web
     name: pdfmaster
-    env: docker
-    dockerfilePath: ./Dockerfile
+    env: python
+    buildCommand: |
+      python3.11 -m pip install --upgrade pip
+      python3.11 -m pip install -r backend/requirements.txt
+    startCommand: python3.11 -m uvicorn backend.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
-        value: 3.11.0
+        value: 3.11.9
       - key: DATABASE_URL
         fromDatabase:
           name: pdfmaster-db

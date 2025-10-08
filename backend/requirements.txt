@@ -6,7 +6,7 @@ alembic
 python-multipart
 python-jose[cryptography]
 passlib[bcrypt]
-bcrypt==4.0.7
+bcrypt
 python-decouple
 pydantic[email]
 pydantic-settings

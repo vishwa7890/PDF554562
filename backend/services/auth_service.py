@@ -16,14 +16,65 @@ class AuthService:
         self.algorithm = "HS256"
         self.access_token_expire_minutes = 30
 
+    def _truncate_password(self, password: str) -> str:
+        """Truncate password to 72 bytes for bcrypt compatibility.
+        
+        Args:
+            password: The password to truncate
+            
+        Returns:
+            str: The truncated password
+        """
+        if not password:
+            return password
+        # Encode to bytes to handle non-ASCII characters correctly
+        encoded = password.encode('utf-8')
+        if len(encoded) > 72:
+            # Truncate to 72 bytes and decode back to string
+            return encoded[:72].decode('utf-8', 'ignore')
+        return password
+
     def verify_password(self, plain_password: str, hashed_password: str) -> bool:
-        # Truncate password to 72 bytes for bcrypt compatibility
-        plain_password = plain_password[:72]
+        """Verify a password against a hash.
+        
+        Args:
+            plain_password: The plain text password
+            hashed_password: The hashed password to verify against
+            
+        Returns:
+            bool: True if the password matches, False otherwise
+        """
+        if not plain_password or not hashed_password:
+            return False
+        plain_password = self._truncate_password(plain_password)
         return self.pwd_context.verify(plain_password, hashed_password)
 
     def get_password_hash(self, password: str) -> str:
-        # Truncate password to 72 bytes for bcrypt compatibility
-        password = password[:72]
+        """Generate a password hash.
+        
+        Args:
+            password: The password to hash
+            
+        Returns:
+            str: The hashed password
+            
+        Raises:
+            HTTPException: If password is empty or too long after truncation
+        """
+        if not password:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Password cannot be empty"
+            )
+            
+        original_length = len(password.encode('utf-8'))
+        if original_length > 100:  # Arbitrary large number to prevent DOS
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Password is too long"
+            )
+            
+        password = self._truncate_password(password)
         return self.pwd_context.hash(password)
 
     def create_access_token(self, data: dict, expires_delta: timedelta = None):

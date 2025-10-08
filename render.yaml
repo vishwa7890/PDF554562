@@ -1,10 +1,11 @@
 services:
   - type: web
-    name: pdfmaster-api
+    name: pdfmaster
     env: python
-    build:
-      buildCommand: chmod +x build.sh && ./build.sh
-      startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    buildCommand: |
+      python3.11 -m pip install --upgrade pip
+      python3.11 -m pip install -r backend/requirements.txt
+    startCommand: python3.11 -m uvicorn backend.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
@@ -17,7 +18,7 @@ services:
       - key: TESSDATA_PREFIX
         value: /usr/share/tesseract-ocr/4.00/tessdata
       - key: CORS_ORIGINS
-        value: "https://your-netlify-site.netlify.app,http://localhost:3000"
+        value: "https://pdfgenie.netlify.app,https://pdfgenie.mindapt.in,http://localhost:3000"
     healthCheckPath: /health
     repo: https://github.com/VISWA00723/pdftool
     plan: free
@@ -32,7 +33,7 @@ databases:
 build:
   envVars:
     - key: PYTHON_VERSION
-      value: 3.9.0
+      value: 3.11.0
     - key: TESSERACT_VERSION
       value: 4.1.1
 

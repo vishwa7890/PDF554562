@@ -41,19 +41,21 @@ app = FastAPI(
 # Mount static files
 app.mount("/processed", StaticFiles(directory="processed"), name="processed")
 
-# Get allowed origins from environment variable or use defaults
-ALLOWED_ORIGINS = os.getenv(
-    'CORS_ORIGINS', 
-    'http://localhost:3000,http://localhost:5173,https://pdfgenie.netlify.app,https://pdfgenie.mindapt.in'
-).split(',')
+# Get allowed origins from environment variable
+CORS_ORIGINS = os.getenv('CORS_ORIGINS', '').split(',')
+# Filter out any empty strings that might result from trailing commas
+ALLOWED_ORIGINS = [origin for origin in CORS_ORIGINS if origin]
 
-# CORS middleware
+# CORS middleware configuration
 app.add_middleware(
     CORSMiddleware,
     allow_origins=ALLOWED_ORIGINS,
+    allow_origin_regex=r'https?://(?:.*\.)?(pdfgenie\.netlify\.app|mindapt\.in)$',
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
+    expose_headers=["*"],
+    max_age=600,  # Cache preflight requests for 10 minutes
 )
 
 # Security

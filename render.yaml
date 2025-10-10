@@ -2,6 +2,7 @@ services:
   - type: web
     name: pdfmaster
     env: python
+    pythonVersion: "3.11.9"
     buildCommand: |
       python3.11 -m pip install --upgrade pip
       python3.11 -m pip install -r backend/requirements.txt
